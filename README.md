@@ -63,12 +63,13 @@ Create a README file that includes:
 - Two example `curl` commands showing how to query the endpoint.
 - A note indicating how much time you spent.
 - If the project is incomplete, list any TODOs clearly.
+  
 
 Optional: You may include a Dockerfile or `docker-compose.yml` if you prefer a containerized setup.
 
 ## 5. Submission
 
-Fork the provided GitHub repository, push your work to your fork, and submit a pull request (PR) to the original repo. Include a short note on the PR stating how much time you spent.
+Fork the provided GitHub repository, push your work to your fork, and submit a pull request (PR) to the original repo.
 
 Reminder: Stop at approximately 3 hours — I value clean thinking and maintainability over completeness.
 
@@ -78,7 +79,7 @@ Submissions will be evaluated based on:
 
 - Data ingestion correctness and log output
 - API functionality and pagination
-- Code clarity and structure
+- Code clarity, documentation and structure
 - Basic test and error handling
 - Developer experience (README and ease of setup)
 
