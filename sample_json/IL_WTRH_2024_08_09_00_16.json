@@ -1,0 +1,1874 @@
+[
+    {
+        "start": 0.049,
+        "end": 9.455,
+        "text": " Bannon, we have a jam-packed show for you tonight between election integrity victories and, of course, revelations regarding VP candidate Tim Walz.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 9.876,
+        "end": 13.798,
+        "text": "I want to welcome my first guest, Catherine Engelbrecht of True the Vote.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 13.939,
+        "end": 17.601,
+        "text": "Catherine, you guys have been working tirelessly over the election.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 17.621,
+        "end": 21.904,
+        "text": "Give us the rundown about what went on yesterday during the election board meeting.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 21.924,
+        "end": 24.546,
+        "text": "Oh, I think yesterday was just...",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 25.643,
+        "end": 31.445,
+        "text": " an amazing day that all Georgians and all Americans should be really, really proud of.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 31.485,
+        "end": 47.591,
+        "text": "And I think the thing that is most notable is that yesterday you saw feedback in the audience, people coming to the lectern to speak and present to that state election board that were representing both Republican and Democrat.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 48.351,
+        "end": 53.495,
+        "text": " And they were presenting to a state election board that is also bipartisan.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 53.855,
+        "end": 70.347,
+        "text": "And in fact, the last clip that you just showed there, Rachel Maddow lamenting that the board had voted through this process or this this new ruling that that standards can be changed in order to equip election officials with the necessary resources.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 70.567,
+        "end": 74.951,
+        "text": " support and veracity of documentation to stand by those results.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 75.872,
+        "end": 82.918,
+        "text": "That was a first motion approved by the Republican and seconded by the Democrat.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 83.659,
+        "end": 92.226,
+        "text": "I mean, yesterday we saw people on both sides of the aisle standing together and saying enough is enough.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 92.487,
+        "end": 97.191,
+        "text": "And in fact, one of the people who presented made a very distinct point of saying,",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 98.051,
+        "end": 105.754,
+        "text": " We may not agree on political stances, but we must agree on the appropriate process and on the legitimacy of the policies.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 105.854,
+        "end": 108.616,
+        "text": "And that's what they were there standing in unison about.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 108.676,
+        "end": 110.296,
+        "text": "So, look, I'm thrilled.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 110.416,
+        "end": 116.679,
+        "text": "I'm just I'm happy to see the citizens of Georgia who have fought so hard and yet through the vote has won.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 117.239,
+        "end": 122.16,
+        "text": " He's done a fair bit of work there and has been in many a battle.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 122.68,
+        "end": 126.721,
+        "text": "But at the end of the day, it's the citizens of Georgia who are the victors.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 126.841,
+        "end": 128.862,
+        "text": "And yesterday was an enormous triumph.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 130.642,
+        "end": 135.783,
+        "text": "The citizens of Georgia declared a state of emergency regarding the election system.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 135.924,
+        "end": 141.765,
+        "text": "Talk about what that means regarding 2020 and then going forward into the next presidential election.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 143.191,
+        "end": 146.295,
+        "text": " Well, I mean, I think that, you know, I love I love that with it.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 146.415,
+        "end": 148.998,
+        "text": "And I hope that it I hope that it resonates.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 149.159,
+        "end": 152.142,
+        "text": "And I hope other states will consider doing likewise.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 152.603,
+        "end": 161.894,
+        "text": "But of course, it's a citizen call for a state of America, though, is nonetheless important to those of us who recognize the dire straits that our election process is in.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 162.475,
+        "end": 167.937,
+        "text": " So what you're going to see now moving forward in Georgia is that you will have access to ballot images.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 168.497,
+        "end": 173.438,
+        "text": "You will have the ability to have poll watchers observing at the tabulation centers.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 173.978,
+        "end": 187.762,
+        "text": "You will have, as we heard there in the last part of that clip, the authority given to election administrators to support their process as late as they need to in order to, in terms of the",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 188.822,
+        "end": 195.53,
+        "text": " the data that's coming into them in order that they may stand solidly around their certifications.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 196.13,
+        "end": 206.582,
+        "text": "And I just think these are the kind of initiatives that bolster transparency and integrity and confidence in both voters and election workers.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 207.342,
+        "end": 209.844,
+        "text": " So it's it's a it's a new day in Georgia.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 210.005,
+        "end": 217.351,
+        "text": "And hopefully it is the end to what we saw in 2020 when there was no chain of custody to be found.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 217.491,
+        "end": 222.535,
+        "text": "In our case, for the projects that we were doing, you couldn't get all the video that you needed from the drop boxes.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 222.936,
+        "end": 229.021,
+        "text": "Let's just hope we have said goodbye to those days and are now on offense for election integrity.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 229.421,
+        "end": 230.983,
+        "text": "And it's I think it's a great thing.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 232.597,
+        "end": 241.074,
+        "text": " In addition to the poll watchers and tabulation centers, they also passed a rule regarding reasonable inquiry into election results.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 241.514,
+        "end": 244.059,
+        "text": "Talk about what that means for the future of elections.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 245.697,
+        "end": 255.54,
+        "text": " Well, you know, as we saw across the country in 2020, reasonable inquiries were shut down and there really wasn't a path for them.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 255.6,
+        "end": 268.505,
+        "text": "Similarly, in voters bringing challenges to records, there's not a clearly defined or as clearly as would be useful forward in establishing a common sense process.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 269.085,
+        "end": 272.467,
+        "text": " that will give everybody an opportunity to have their say.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 272.587,
+        "end": 276.789,
+        "text": "But if you do things right from the beginning, it should all fall into place.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 276.849,
+        "end": 282.772,
+        "text": "So it was a series of decisions that overall, I think, have left the state in a much better place.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 282.832,
+        "end": 292.798,
+        "text": "And I just pray that it has ripples across the country in places like Michigan, for example, where the governor has made it illegal to question election outcomes.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 293.218,
+        "end": 296.44,
+        "text": "So a long way to go in other states, but again, Georgia...",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 297.16,
+        "end": 300.504,
+        "text": " miraculously, because of its citizens, is setting the pace.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 302.566,
+        "end": 308.013,
+        "text": "True the Vote has tons of initiatives to get voters out to the polls and to secure elections.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 308.113,
+        "end": 311.517,
+        "text": "Talk to me about what they are doing and how people can get involved.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 312.935,
+        "end": 315.036,
+        "text": " Yes, we do have lots of projects going on.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 315.096,
+        "end": 319.057,
+        "text": "We're wrapping up a project looking at the accuracy of the voter rolls.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 319.797,
+        "end": 323.639,
+        "text": "We have projects on our website that people can check out at truethevote.org.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 323.759,
+        "end": 331.482,
+        "text": "But a training that we are hosting tonight that I'm really excited about is called Older But Wiser Voter Outreach.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 331.842,
+        "end": 338.104,
+        "text": "And we are going to be working with volunteers all over the country to reach out to long-term care facilities",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 338.804,
+        "end": 346.269,
+        "text": " and spread a little cheer and do some voter registration and help people get to the polls to the greatest generation that so often is left behind.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 346.309,
+        "end": 353.154,
+        "text": "And there are millions of people who are in facilities like this across the country who often just get left out of the process.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 353.654,
+        "end": 359.558,
+        "text": "But then throughout the rest of the time, the 92 days we have left, we're going to be doing training and all manner of support.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 359.939,
+        "end": 360.659,
+        "text": "That's awesome.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 360.699,
+        "end": 362.881,
+        "text": "So how can the people go and follow you?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 362.961,
+        "end": 366.003,
+        "text": "And one more time, how can they get involved in that voter training?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 367.665,
+        "end": 371.847,
+        "text": " They can follow us at True the Vote on any social media platform.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 371.968,
+        "end": 375.129,
+        "text": "You can check out our website at truethevote.org.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 375.61,
+        "end": 379.072,
+        "text": "And then all of the trainings are always posted in both places.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 379.632,
+        "end": 382.874,
+        "text": "So you can see the latest if you just read any feed that we have.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 383.154,
+        "end": 389.618,
+        "text": "Or you can go to onward.local to the trainings and you'll find a litany of things to get plugged into as well.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 391.747,
+        "end": 392.308,
+        "text": " Wonderful.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 392.508,
+        "end": 394.029,
+        "text": "Thank you so much, Catherine.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 394.15,
+        "end": 396.952,
+        "text": "I want to bring in my next guest, Liz Harrington.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 397.433,
+        "end": 401.337,
+        "text": "Liz, you have been at the forefront of this election integrity battle.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 401.697,
+        "end": 404.961,
+        "text": "Give us your assessment about what went on yesterday during the meeting.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 406.584,
+        "end": 407.565,
+        "text": " Well, thanks, Jane.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 408.066,
+        "end": 410.408,
+        "text": "It was a really crucial meeting.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 410.468,
+        "end": 417.235,
+        "text": "We didn't get to the real bombshell stuff yet, but there were some really important things that happened.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 417.755,
+        "end": 421.979,
+        "text": "Number one, they voted to pass a rule three to two.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 422.96,
+        "end": 431.646,
+        "text": " Despite objections from the chairman of the state election board in Georgia, John Fervier, who brought in a D.C.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 431.866,
+        "end": 442.173,
+        "text": "attorney for 30 minutes, tried to argue against this rule that passed, which would simply allow county officials at the election level to.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 443.454,
+        "end": 450.164,
+        "text": " Make an inquiry, a reasonable inquiry about their election results before they certify them.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 450.484,
+        "end": 458.016,
+        "text": "So in other words, they would be able to look at what they're certifying before they vote to certify it.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 458.416,
+        "end": 462.958,
+        "text": " Pretty basic stuff, which is not something that is typically done now.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 462.998,
+        "end": 467.9,
+        "text": "And we've seen the pressure put on county officials to just cite unseen.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 468.38,
+        "end": 469.661,
+        "text": "Don't ask questions.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 469.961,
+        "end": 472.322,
+        "text": "You have to rubber stamp these election results.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 472.402,
+        "end": 473.302,
+        "text": "They've been threatened.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 473.342,
+        "end": 477.584,
+        "text": "They've been doxxed in Michigan, Arizona, threatened with arrest.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 478.104,
+        "end": 481.186,
+        "text": " I mean, this is so insane what's happened.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 481.526,
+        "end": 485.349,
+        "text": "And yet this rule just simply says that they can look into their results.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 485.489,
+        "end": 491.052,
+        "text": "If there's a question of there being irregularities, they can make it a reasonable inquiry.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 491.253,
+        "end": 492.233,
+        "text": "Who would oppose that?",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 492.593,
+        "end": 495.695,
+        "text": "Well, apparently the chairman of the state election board does.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 495.755,
+        "end": 499.238,
+        "text": "He voted against it, brought an attorney from D.C.,",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 499.978,
+        "end": 502.441,
+        "text": " His name was Mr. Suss.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 502.541,
+        "end": 506.064,
+        "text": "For 30 minutes, tried to battle this down.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 506.584,
+        "end": 507.385,
+        "text": "It didn't work.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 507.826,
+        "end": 511.349,
+        "text": "So this is another rule that Georgia will have in place.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 511.369,
+        "end": 518.516,
+        "text": "I mean, we have to make sure that the rules are followed to make sure that the Georgia state Republican Party and the RNC vote.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 519.236,
+        "end": 526.298,
+        "text": " are backing up these state election board members who are voting in favor of these common sense election rules.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 526.478,
+        "end": 527.319,
+        "text": "Where are they?",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 527.399,
+        "end": 528.779,
+        "text": "Why are they not backing them up?",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 528.819,
+        "end": 534.501,
+        "text": "Because the state election board's being sued by these left-wing groups who don't want anything to do",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 535.341,
+        "end": 548.685,
+        "text": " With these reconciliation rules, the rules that President Trump praised, where you have to have three poll workers make sure the counts match the ballots with the machines on each day of voting.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 549.085,
+        "end": 554.907,
+        "text": "They're being sued over the open meeting process to try to get rid of that rule.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 555.327,
+        "end": 558.168,
+        "text": "We need backup and we need the posse to.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 559.108,
+        "end": 565.816,
+        "text": " be informed about this and to get on our Republican Party, especially in Georgia, to say, where are you?",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 566.397,
+        "end": 571.503,
+        "text": "There are only a few people fighting to try to make sure that 2020 doesn't happen again in 2024, and they need backup.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 575.672,
+        "end": 581.938,
+        "text": " In our cold open there, Rachel Maddow really tried to minimize the role of election board members.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 582.378,
+        "end": 589.805,
+        "text": "Talk to me about the significant impact that they've had and why it's so critical for people to get involved on a similar level.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 591.404,
+        "end": 593.466,
+        "text": " It is absolutely critical.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 594.047,
+        "end": 606.458,
+        "text": "But for a couple of these members on the state election board, we would be nowhere close to getting any accountability, any facts in Georgia or any hope of a fair election there.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 606.519,
+        "end": 608.38,
+        "text": "And we have hope there.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 608.42,
+        "end": 608.961,
+        "text": "We have hope.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 609.521,
+        "end": 611.643,
+        "text": " momentum with a lot of these rules.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 612.444,
+        "end": 628.856,
+        "text": "Dr. Janice Johnson, again, today in the carry on, they're finishing up the meeting today, has asked tough questions, has called out the chairman, has called out what is being tried to swept under the rug with this monitoring team.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 628.876,
+        "end": 631.318,
+        "text": "I mean, here's the amazing thing, Jane.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 632.278,
+        "end": 644.585,
+        "text": " This case, the State Election Board case 2023-025, this is the complaint that proves it was all fraud, that the original count had over 20 votes and so did the second machine count.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 644.985,
+        "end": 652.989,
+        "text": "And there's verifiable intentional fraud with these duplicates that they've discovered that were in fact counted.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 653.529,
+        "end": 659.673,
+        "text": "The State Election Board has allowed this case to continue and allowed this case to get out.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 660.433,
+        "end": 677.274,
+        "text": " There were previous members on the board that tried to bury it, cooked up a backroom deal before the case was even heard in May to try to stop it from even basically closing it before it was even heard and proposed this monitoring team for Fulton County.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 677.654,
+        "end": 683.817,
+        "text": " The state election board said, no, today we're not going to do a monitoring team right now.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 683.897,
+        "end": 684.997,
+        "text": "We're going to look into it.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 685.037,
+        "end": 686.898,
+        "text": "We'll decide at the next meeting.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 687.238,
+        "end": 694.722,
+        "text": "But we're not going to take the solution that was cooked up in a back room before the case was even heard.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 694.742,
+        "end": 700.224,
+        "text": "But the proposal conveniently led by Ryan Germany, who was Brad Raffensperger's.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 700.684,
+        "end": 703.987,
+        "text": " General Counsel for the Secretary of State in 2020.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 704.247,
+        "end": 716.277,
+        "text": "The leading people of the cover up and who've been against President Trump and are trying to put him in jail for asking these very basic questions that have all been proven to be correct on his part.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 716.997,
+        "end": 723.122,
+        "text": "Now wanna lead the monitoring team of Fulton County to make sure it doesn't happen again.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 723.142,
+        "end": 724.944,
+        "text": "No, we know exactly what's going on.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 724.964,
+        "end": 728.787,
+        "text": "They wanna make sure it gets covered up again and we can't let that happen.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 731.156,
+        "end": 737.119,
+        "text": " Liz, this is undoubtedly a very big success as far as election integrity goes in Georgia.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 737.159,
+        "end": 741.961,
+        "text": "But what are some of the other big ticket items that we still have to get through elections in the state?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 744.006,
+        "end": 744.887,
+        "text": " There's so much.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 744.907,
+        "end": 747.328,
+        "text": "I mean, we have to get rid of these systems.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 747.708,
+        "end": 751.51,
+        "text": "It's just on the very fundamental level that they don't work.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 751.791,
+        "end": 752.791,
+        "text": "They're not accurate.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 753.231,
+        "end": 757.654,
+        "text": "And you can theorize and complain and all these different things all day long.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 757.814,
+        "end": 768.84,
+        "text": "But we have election after election after election where they have to recertify, where they break down in Puerto Rico, where there's just no confidence.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 768.94,
+        "end": 771.061,
+        "text": "Voters, you have to do something.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 771.101,
+        "end": 772.182,
+        "text": "You have to fix it.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 772.262,
+        "end": 772.382,
+        "text": "So",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 772.802,
+        "end": 784.966,
+        "text": " We're a long way away from getting the same day voting, paper ballots counted in public, full transparency that we really need to make sure we have free and fair elections.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 785.626,
+        "end": 787.527,
+        "text": "We're so far from that, however,",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 788.067,
+        "end": 791.769,
+        "text": " We know so much about how corrupt these systems are.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 792.349,
+        "end": 795.651,
+        "text": "We can continue to fight for this accountability.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 795.791,
+        "end": 812.218,
+        "text": "And if we can just push in a couple of these states, Georgia, Arizona, Michigan, Pennsylvania, where there is so much evidence of fraud and try to hold these officials accountable, get changes to make sure that we can get them in place immediately.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 812.598,
+        "end": 818.762,
+        "text": " Hopefully before the election and by the grace of God, we get in really make some good changes.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 818.802,
+        "end": 820.584,
+        "text": "So we just have to keep the pressure on.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 821.304,
+        "end": 825.747,
+        "text": "People are so informed now that we had no idea before 2020.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 825.807,
+        "end": 829.35,
+        "text": "A lot of us didn't of just how corrupt and how bad things were.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 829.43,
+        "end": 831.311,
+        "text": "But we're a lot smarter now.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 831.411,
+        "end": 834.233,
+        "text": "We're more determined than ever for accountability.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 834.633,
+        "end": 836.194,
+        "text": "And we just have to keep pushing for that.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 836.335,
+        "end": 838.196,
+        "text": "That's the only way things will really change.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 840.379,
+        "end": 842.921,
+        "text": " All right, Liz, fantastic work as always.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 843.081,
+        "end": 846.865,
+        "text": "Where can the posse follow you to stay on top of the latest developments?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 847.986,
+        "end": 849.247,
+        "text": "Warroom.org.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 849.307,
+        "end": 850.908,
+        "text": "All my latest pieces are there.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 851.048,
+        "end": 855.132,
+        "text": "And of course, go to X and True Social at Real Liz USA.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 858.237,
+        "end": 859.599,
+        "text": " Awesome, thank you so much.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 860.259,
+        "end": 867.968,
+        "text": "Captain Maureen Bannon, we have some major revelations with Kamala's VP pick, Tim Walls.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 868.428,
+        "end": 873.354,
+        "text": "He is a deployment dodger, if I'm not mistaken.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 873.394,
+        "end": 874.395,
+        "text": "What's going on here?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 875.476,
+        "end": 879.139,
+        "text": " So you are correct, Jane, and thank you for having me on this evening.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 879.799,
+        "end": 889.505,
+        "text": "So Tim Walz, back in 2005, his National Guard unit, his Minnesota National Guard unit, was given orders to deploy to Iraq.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 889.565,
+        "end": 895.95,
+        "text": "And he told that unit, as the senior non-commissioned officer, that he would be on the deployment with them.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 896.23,
+        "end": 903.275,
+        "text": "However, he put in his paperwork to retire and did not go on the deployment with them.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 905.716,
+        "end": 922.768,
+        "text": " Basically without their senior non-commissioned officer, which if you follow my Twitter, you can see I posted another clip from the actual senior non-commissioned officer that went on the deployment with them that filled in in that position.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 923.068,
+        "end": 929.813,
+        "text": "But he basically put in his paperwork to retire so he would not have to go to war with his unit.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 930.793,
+        "end": 930.933,
+        "text": " in 2005.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 931.514,
+        "end": 943.682,
+        "text": "And actually for National Guard, they are not on active duty status normally, but when they go on deployment or go on training rotations, they get moved to active duty status.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 944.583,
+        "end": 951.868,
+        "text": "And there is paperwork that can be done where he could have run for Congress while being on active duty status.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 952.369,
+        "end": 956.131,
+        "text": "You have to get a waiver for it, but he could have gotten a waiver.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 956.311,
+        "end": 959.754,
+        "text": "So it just looks like he was trying to get out of",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 961.212,
+        "end": 962.754,
+        "text": " Going to war with his unit.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 964.336,
+        "end": 971.806,
+        "text": "And it just shows that he doesn't he'll abandon his soldiers at the drop of a hat.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 972.567,
+        "end": 979.296,
+        "text": "And on top of that, as you can see from the post that's up there in a video.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 980.706,
+        "end": 984.99,
+        "text": " In front of constituents, he said that he was in the Army for 25 years.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 985.851,
+        "end": 988.233,
+        "text": "Note to self, Tim Walz, you enlisted in 1981.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 988.274,
+        "end": 988.674,
+        "text": "You retired in 2005.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 993.666,
+        "end": 996.688,
+        "text": " Last time I checked, that's 24 years, not 25.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 997.228,
+        "end": 1005.094,
+        "text": "So if he's so quick to lie about his time in service, and he also lied about his rank when he got out.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1006.034,
+        "end": 1011.358,
+        "text": "So if you're so quick to lie about that, what else are you gonna lie to the American people about?",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1013.541,
+        "end": 1016.504,
+        "text": " Well, there's definitely a lot coming out about this guy.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1017.245,
+        "end": 1020.568,
+        "text": "How do you think he impacts the race going forward?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1020.608,
+        "end": 1024.192,
+        "text": "What do you think about this pick strategically for the Democrats?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1026.014,
+        "end": 1032.36,
+        "text": "I think the American people, like I said, need to look at if he's lying about something as...",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1033.905,
+        "end": 1037.987,
+        "text": " big is his military service, what else is he going to lie to the American people about?",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1038.868,
+        "end": 1047.293,
+        "text": "And as Republicans in the MAGA movement, we need to keep calling out all of the things that he has done to destroy this country.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1047.673,
+        "end": 1058.759,
+        "text": "And to go back really quickly to what I said about his rank, he lied when he ran for Congress in 2005-2006 and said that he retired as a Command Sergeant Major in the Army.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1063.804,
+        "end": 1064.929,
+        "text": " Where he was fraught.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1064.949,
+        "end": 1067.721,
+        "text": "So basically he was promoted without.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1069.348,
+        "end": 1072.61,
+        "text": " actually completing the requirements for that position.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1072.63,
+        "end": 1081.113,
+        "text": "And then when it was determined that he didn't meet those requirements, he was retired as the rank that he actually met the requirements for.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1081.674,
+        "end": 1091.438,
+        "text": "But he continued, and he still to this day has it on his gubernatorial website or governor website that he was a command sergeant major in the military.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1091.838,
+        "end": 1093.939,
+        "text": "So once again, if he's so quick to-",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1096.0,
+        "end": 1096.701,
+        "text": " over the break.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1097.101,
+        "end": 1103.385,
+        "text": "Coming up, we have Terry Schilling to talk about Walz's radical child mutilation policies.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1103.465,
+        "end": 1106.727,
+        "text": "Stay tuned because this guy is a real creep coming for your kids.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1121.86,
+        "end": 1123.662,
+        "text": " All this nonsense, all this spin.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1123.682,
+        "end": 1126.705,
+        "text": "War Room Battleground with Stephen K. Bannon.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1130.168,
+        "end": 1132.17,
+        "text": "Welcome back to War Room Battleground.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1132.31,
+        "end": 1136.934,
+        "text": "My name is Jane Zirkle filling in for political prisoner Steve Bannon.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1137.394,
+        "end": 1139.216,
+        "text": "I am joined by Maureen Bannon.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1139.256,
+        "end": 1142.599,
+        "text": "Maureen, I want to pick up to where we left off before the break.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1143.06,
+        "end": 1147.343,
+        "text": "You're saying that he also lied about his military ranking.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1148.424,
+        "end": 1148.844,
+        "text": " Correct.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1148.924,
+        "end": 1153.827,
+        "text": "So when he retired in 2005, he was a command sergeant major.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1153.947,
+        "end": 1161.13,
+        "text": "So he was basically frocked, which means that he was put into that position of command sergeant major prior to the deployment.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1161.23,
+        "end": 1166.132,
+        "text": "But you have to meet requirements in order to be promoted to that rank.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1166.553,
+        "end": 1168.073,
+        "text": "He did not meet the requirements.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1168.113,
+        "end": 1172.195,
+        "text": "So when he retired, he retired as a master sergeant, which is...",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1174.396,
+        "end": 1176.857,
+        "text": " a different rank or a different title.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1176.977,
+        "end": 1183.558,
+        "text": "So the fact that he is lying, he put that on his campaign page back when he ran for Congress.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1184.038,
+        "end": 1186.139,
+        "text": "It's on his page as governor.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1186.859,
+        "end": 1192.52,
+        "text": "He's been lying since he retired in 2005 about his rank.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1192.6,
+        "end": 1198.182,
+        "text": "So if he's lying about his rank, what else is he lying to the American people about?",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1198.742,
+        "end": 1202.723,
+        "text": "And to reiterate, he abandoned his unit prior to a deployment",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1203.303,
+        "end": 1213.074,
+        "text": " To Iraq, heading to war, he abandoned the citizens of Minneapolis in 2020 when the city burnt down because of the BLM riots.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1213.654,
+        "end": 1221.483,
+        "text": "So what else is he going to abandon the American people with if he were to make it to the White House?",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1223.459,
+        "end": 1224.639,
+        "text": " Big time, big time.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1224.839,
+        "end": 1227.2,
+        "text": "Maureen, I'm always getting questions from the posse.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1227.32,
+        "end": 1229.281,
+        "text": "What's the best way to support War Room?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1229.641,
+        "end": 1230.881,
+        "text": "What do you have for us today?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1230.901,
+        "end": 1237.823,
+        "text": "So the best way to support War Room is to support our sponsors, and we have a ton of sponsors.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1238.323,
+        "end": 1242.584,
+        "text": "I was on the show last week, you know, talking about some of our sponsors, but I'm also...",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1243.084,
+        "end": 1246.825,
+        "text": " I have some of our sponsors' products here again with me today.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1247.405,
+        "end": 1249.886,
+        "text": "One of our sponsors is My Patriot Supply.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1250.226,
+        "end": 1256.629,
+        "text": "You know, you always need to be prepared in case of a hurricane, tropical storm.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1256.709,
+        "end": 1261.59,
+        "text": "Here in Florida, a tropical storm, Debbie, hit us with a ton of rain last week.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1261.91,
+        "end": 1264.651,
+        "text": "You know, the power was knocked out in some areas.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1264.691,
+        "end": 1267.132,
+        "text": "You need to make sure that you have food prepared.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1267.872,
+        "end": 1290.548,
+        "text": " case you're not able to cook also solar generator system but also to charge your products I have a solar panel charging device to charge my phones in case the power went out another sponsor that we have is sacred human health and some of their products are",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1291.775,
+        "end": 1298.058,
+        "text": " The grass-fed beef liver, which is one of my dad's favorite products, but my favorite products are two that he does not mention.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1298.538,
+        "end": 1307.982,
+        "text": "The magnesium for sleep and also the magnesium and vitamin D. They both help with sleep, help with bone health, heart health, relieve muscle tension.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1308.002,
+        "end": 1309.962,
+        "text": "You know, great products.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1310.043,
+        "end": 1312.444,
+        "text": "Go check out sacredhumanhealth.com.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1312.864,
+        "end": 1317.326,
+        "text": "And for the solar panel charging station, you can go to mypatriotsupply.com.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1317.446,
+        "end": 1320.107,
+        "text": "And one last sponsor I want to talk about.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1321.267,
+        "end": 1344.959,
+        "text": " is warpath coffee if you go to warpath.coffee you can get some amazing coffee i know the mariners blend is my dad's favorite blend it was made just for him it is a dark roast i am not a dark roast person at all however i love the mariners blend i will drink this dark roast",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1346.98,
+        "end": 1348.541,
+        "text": " Very best dark roast I've ever had.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1348.601,
+        "end": 1351.982,
+        "text": "And also in the summer, we have the summer blend.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1352.222,
+        "end": 1354.642,
+        "text": "I highly recommend trying this.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1354.662,
+        "end": 1355.703,
+        "text": "This is my second bag.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1355.743,
+        "end": 1359.924,
+        "text": "That's why it looks completely unopened, but it is so good.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1359.944,
+        "end": 1361.445,
+        "text": "I've already gone through one bag.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1361.525,
+        "end": 1364.766,
+        "text": "So go to warpath.coffee to check out this.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1365.846,
+        "end": 1390.508,
+        "text": " all of the great products that tage gill and the team have over there and then i i know i said that was my last one but go check out public square.com public square.com for all the companies that don't push this woke agenda that tim walsh wants to push and the dei hire kamala harris wants to push on the american people please go check out public square.com as well",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1392.111,
+        "end": 1392.471,
+        "text": " Awesome.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1392.492,
+        "end": 1394.634,
+        "text": "And where can the posse go and follow you?",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1395.494,
+        "end": 1398.657,
+        "text": "You can find me on Twitter and getter at Maureen underscore Bannon.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1398.718,
+        "end": 1408.267,
+        "text": "And I'm coming in very hot, especially about Mr. Stolen Valor and Coward Tim Walsh on Twitter.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1408.507,
+        "end": 1409.388,
+        "text": "Real Maureen Bannon.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1411.79,
+        "end": 1415.414,
+        "text": "Let's play that cold open for our next guest, Terry Schilling.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1416.701,
+        "end": 1422.583,
+        "text": " Also standing in that sea of people, a parent, transparent about his family.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1422.743,
+        "end": 1429.186,
+        "text": "My partner Gretchen and I are here today because we are parents of a trans child.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1429.551,
+        "end": 1438.313,
+        "text": " Their child is six years old, and she was as excited to be at a boring Capitol on spring break as any six-year-old kid could be.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1439.353,
+        "end": 1448.575,
+        "text": "Squirming and fidgeting her way through speech is hardly aware her existence as why her parents drove five hours today to speak publicly.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1448.915,
+        "end": 1450.215,
+        "text": "It's 100% personal.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1450.655,
+        "end": 1458.497,
+        "text": "I mean, the safety, the happiness of our child, it couldn't be more personal.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1459.658,
+        "end": 1460.86,
+        "text": " Asher, why are we here today?",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1460.88,
+        "end": 1464.044,
+        "text": "For trans rights.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 1464.164,
+        "end": 1466.507,
+        "text": "For her rights to be her.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 1466.887,
+        "end": 1471.313,
+        "text": "As you can see from this interview, I can't force my kids to do anything here.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 1473.046,
+        "end": 1473.967,
+        "text": " Trusted us enough.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 1474.607,
+        "end": 1478.709,
+        "text": "She believes in our love enough that she has invited us in to see her whole self.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 1479.39,
+        "end": 1485.093,
+        "text": "And if we don't love her that much, the opposite would happen where we wouldn't get to know everything about her.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 1485.513,
+        "end": 1488.555,
+        "text": "And so we're lucky, we're blessed, and we love her.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 1488.995,
+        "end": 1497.72,
+        "text": "So much they came to the people's house this morning to talk about her, the person, in a room reserved for talks about politics.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1497.94,
+        "end": 1500.482,
+        "text": "And there's nothing in this world that I wouldn't do.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1502.435,
+        "end": 1505.978,
+        "text": " that Gretchen and I wouldn't do to protect her and others like her.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1506.178,
+        "end": 1512.804,
+        "text": "Governor Tim Walz signed an executive order providing legal protection to those who come to Minnesota for gender-affirming health care.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1513.145,
+        "end": 1516.668,
+        "text": "John Croman joins us now live from the Capitol with more about what prompted...",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1518.337,
+        "end": 1525.863,
+        "text": " Hey, Rena, this comes at a time when a lot of other states are passing bills that would restrict gender affirming care or outlaw it for minors.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1526.203,
+        "end": 1534.128,
+        "text": "And there's actually a bill here pending at the legislature here at the Capitol that would make Minnesota sort of a trans care refuge state.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1534.789,
+        "end": 1535.67,
+        "text": "To get to his desk.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1537.571,
+        "end": 1546.898,
+        "text": "When our children tell us who they are, it is our job as grownups to listen and to believe them.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1549.944,
+        "end": 1553.386,
+        "text": " It was an event that had all the trappings of a bill-signing ceremony.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1553.406,
+        "end": 1563.692,
+        "text": "A huge crowd of lawmakers, advocates, and families, in this case, gathered in support of legal protections for people seeking gender-affirming care for themselves or their children.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1563.752,
+        "end": 1566.814,
+        "text": "But the paper Governor Walz signed was an executive order.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1569.793,
+        "end": 1576.115,
+        "text": " What you just saw there is a glimpse at what could be in Kamala Harris's America nationwide.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1576.515,
+        "end": 1577.915,
+        "text": "Terry Schilling now joins me.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1577.975,
+        "end": 1580.876,
+        "text": "He is the president of the American Principles Project.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1581.356,
+        "end": 1586.217,
+        "text": "Terry, what is Tim Walz's records on this crazy radical issue?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1586.577,
+        "end": 1592.319,
+        "text": "How has he been implementing child mutilation policies in the state of Minnesota since day one?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1593.868,
+        "end": 1595.829,
+        "text": " Well, thanks so much for having me, Calamity Jane.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1595.949,
+        "end": 1597.75,
+        "text": "I am honored to be here with you.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1597.77,
+        "end": 1601.272,
+        "text": "I'm not going to parse words here, right?",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1601.452,
+        "end": 1619.6,
+        "text": "This issue of gender transitions for minors where they literally give them chemical castration drugs and cross-sex hormones and then eventually mutilate their bodies through double mastectomies, not because they have cancer or they have to remove these body parts or change them because they're dying, but because they feel uncomfortable in their own bodies.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1619.981,
+        "end": 1620.841,
+        "text": "This is offensive.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1621.261,
+        "end": 1623.842,
+        "text": " This is harmful, it's destructive, no one should support it.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1624.282,
+        "end": 1630.005,
+        "text": "But Tim Walz and his administration in Minnesota has gone far beyond that, far beyond that.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1630.365,
+        "end": 1638.408,
+        "text": "That press conference that they were showing, that was from his signature on a bill that would allow for the state of Minnesota to essentially...",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1639.328,
+        "end": 1646.812,
+        "text": " Kidnap children from other states where gender transition procedures and mutilation surgeries are not allowed.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1648.353,
+        "end": 1657.698,
+        "text": "That bill essentially eliminates the ability for Minnesota family services agencies to comply with any orders from out of state.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1657.718,
+        "end": 1659.56,
+        "text": "So if you're a parent.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1662.461,
+        "end": 1673.685,
+        "text": " who is opposed to gender in Ohio and your kid finds some groomer that drives them up to Minnesota, the state of Minnesota will not return that child to his or her parents.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1674.506,
+        "end": 1675.446,
+        "text": "That is radical.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1675.926,
+        "end": 1676.827,
+        "text": "That is punitive.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1676.927,
+        "end": 1680.168,
+        "text": "That is the elimination of the authority of parents.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1680.228,
+        "end": 1687.931,
+        "text": "If parents can't say no to sex change procedures for their minor children, what are they allowed to say no to?",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1690.558,
+        "end": 1698.18,
+        "text": " I was watching CNN last night and the commentators were attempting to paint Tim Walz as the dad candidate, the all-American dad.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1698.72,
+        "end": 1702.141,
+        "text": "But talk to me about the reality of what he is doing to children.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1702.181,
+        "end": 1705.782,
+        "text": "When they say gender affirming care, it's this light and fluffy term.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1706.243,
+        "end": 1710.764,
+        "text": "But what is the actual reality here about how it's affecting children long term?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1712.321,
+        "end": 1717.806,
+        "text": " Well, gender affirming care, to be clear, is a focus group poll tested term.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1718.267,
+        "end": 1724.592,
+        "text": "It's a marketing term because there's nothing affirming about, you know, chemically castrating your child.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1724.853,
+        "end": 1730.177,
+        "text": "There's nothing affirming about putting them on cross sex hormones and loading them up with pharmaceutical drugs.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1730.217,
+        "end": 1734.962,
+        "text": "And there's absolutely nothing affirming about mutilating your child and removing it.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1735.242,
+        "end": 1741.688,
+        "text": " Perfectly healthy and functioning body parts for the sake of telling them and affirming them that they were born in the wrong body.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1742.289,
+        "end": 1745.892,
+        "text": "It is an oxymoron, for lack of a better word.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1746.473,
+        "end": 1749.335,
+        "text": "And what these people are doing is they're destroying our children.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1749.816,
+        "end": 1751.237,
+        "text": "And they will do anything.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1751.237,
+        "end": 1758.766,
+        "text": " anything they can to mutilate and sterilize our children, including taking away custody from parents in other states.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1759.167,
+        "end": 1771.402,
+        "text": "If this gets if Tim Walz and Kamala Harris become president and vice president of this country, you can expect this not just to stay in the blue states where we're seeing this run rampant, like California and Minnesota.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1771.662,
+        "end": 1773.404,
+        "text": "California's laws are actually",
+        "speaker": "SPEAKER_03"
+    }
+]

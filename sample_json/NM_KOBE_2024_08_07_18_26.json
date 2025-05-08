@@ -1,0 +1,2413 @@
+[
+    {
+        "start": 0.049,
+        "end": 2.351,
+        "text": " Except for when you get to elections, then you can't do that.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 3.351,
+        "end": 4.872,
+        "text": "So those are the first two levels.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 4.912,
+        "end": 10.476,
+        "text": "And that's, I wanna point out, not making people have an ID is kind of part of that, right?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 11.431,
+        "end": 22.181,
+        "text": " Yeah, but the ID thing for me is it misses the true way that you exploit the system, which is what I was getting to, which was level three.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 22.201,
+        "end": 31.13,
+        "text": "And I think this is the problem with our elections is that there is a nation state capability to monitor all election data real time.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 32.211,
+        "end": 36.115,
+        "text": " and a nation state capability to change the results real time.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 36.876,
+        "end": 42.522,
+        "text": "And we've seen evidences of automation PID controls where that's happening across the country.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 43.243,
+        "end": 45.926,
+        "text": "And the problem with the auditability of the system now is",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 46.869,
+        "end": 50.41,
+        "text": " Our answer for everything is let's get poll watchers to stand in line.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 50.91,
+        "end": 52.91,
+        "text": "Let's get people to show up to the place.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 52.93,
+        "end": 54.551,
+        "text": "But you can't look inside the black box.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 54.591,
+        "end": 58.192,
+        "text": "It's happening at such a deeper level that that's child's play.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 58.212,
+        "end": 58.452,
+        "text": "Yeah.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 58.752,
+        "end": 67.214,
+        "text": "And so unless you're looking at material that gives you answers about how the machine is operating, you're absolutely in the dark.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 68.658,
+        "end": 70.899,
+        "text": " And I've got a little quote here from the New York Times.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 70.919,
+        "end": 86.103,
+        "text": "Smartmatic was a little-known firm with no experience in voting technology before it was chosen by the Venezuelan authorities to replace the country's election machinery ahead of a contentious referendum that confirmed Mr. Chavez as president in August 2004, so 20 years ago.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 89.924,
+        "end": 92.888,
+        "text": " These machines were designed for fraud.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 93.269,
+        "end": 103.562,
+        "text": "So my question when I wrote this article X number of years ago was, how do you take something that's designed for fraud and straighten it out to tell the truth?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 104.811,
+        "end": 111.796,
+        "text": " The only way that you're going to improve the current election system is to basically walk away from it.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 111.836,
+        "end": 113.057,
+        "text": "These are open systems.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 113.937,
+        "end": 116.179,
+        "text": "And when people had confidence in U.S.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 116.239,
+        "end": 120.762,
+        "text": "elections over the past 180 years in America, we used primarily closed systems.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 120.802,
+        "end": 125.926,
+        "text": "So you'd show up to a ballot location or a voting location, and they'd put out a paper poll book.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 126.166,
+        "end": 132.01,
+        "text": "And you'd sign a piece of paper, and they'd check their voter rolls to make sure that you're a citizen and that you live here.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 132.35,
+        "end": 133.431,
+        "text": "And they'd hand you a paper ballot.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 134.232,
+        "end": 146.43,
+        "text": " Well, now you've got electronic poll books, and we're seeing people that don't even show up being checked in, inserted, a ballot is generated associated with that identity, and it's being cast in the system.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 146.69,
+        "end": 149.094,
+        "text": "And this sounds to me like the most...",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 150.135,
+        "end": 153.057,
+        "text": " vulnerable area for AI to be inserted into.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 153.278,
+        "end": 159.542,
+        "text": "Yeah, and AI, it looks like it's going to be the future as far as its presence everywhere.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 159.582,
+        "end": 162.084,
+        "text": "So you have a closed system that's been opened up.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 162.725,
+        "end": 175.555,
+        "text": "And the other thing about those e-poll books, and we use them here in Las Cruces because we have voting convenience centers, is that it gives all of these ballot meals the metrics they need to stuff the ballot boxes because they actually have software that tells you how many ballots have gone out.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 176.115,
+        "end": 177.255,
+        "text": " How many have come back in?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 177.936,
+        "end": 182.557,
+        "text": "And so you can say, okay, we've got way more Republican ballots coming in than Democrats.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 183.057,
+        "end": 183.757,
+        "text": "What's the difference?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 184.797,
+        "end": 183.757,
+        "text": "1,000?"
+    },
+    {
+        "start": 185.357,
+        "end": 189.899,
+        "text": "Well, then you better start filling out your fraudulent ballots, deploying them at drop boxes.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 189.919,
+        "end": 202.342,
+        "text": "And the reason why that's relevant here is we found in our investigation, because we actually did eight audits throughout the state of New Mexico, including Dona Ana, we found 9,000 ballots with no chain of custody stuffed in ballot boxes.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 202.742,
+        "end": 204.463,
+        "text": " And folks, just hang on for a second.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 204.483,
+        "end": 206.905,
+        "text": "We're going to be right back to some more beautiful ads.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 207.005,
+        "end": 207.886,
+        "text": "Kelly O'Connell show.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 208.566,
+        "end": 211.448,
+        "text": "Do not resuscitate, especially these fraudsters.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 211.488,
+        "end": 212.249,
+        "text": "We'll be right back.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 212.449,
+        "end": 213.73,
+        "text": "He's bringing up the rear.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 214.65,
+        "end": 216.852,
+        "text": "Oh, but the diaper bag wasn't closed.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 217.132,
+        "end": 219.334,
+        "text": "Diapers and toys are everywhere.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 220.354,
+        "end": 224.738,
+        "text": " Ooh, but mom has just nailed the perfect car seat buckle for the toddler.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 225.258,
+        "end": 230.442,
+        "text": "And now the eldest daughter, who looks to be about 9 or 10, has secured herself in the booster seat.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 230.522,
+        "end": 233.164,
+        "text": "Dad zips the bag closed, and they're off.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 234.148,
+        "end": 238.251,
+        "text": " Ah, but looks like mom doesn't realize her coffee cup is still on the roof of the car.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 238.612,
+        "end": 239.892,
+        "text": "And there it goes.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 240.733,
+        "end": 242.054,
+        "text": "Oh, that's a shame.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 242.094,
+        "end": 243.695,
+        "text": "That mug was a fam favorite.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 243.996,
+        "end": 245.217,
+        "text": "Don't sweat the small stuff.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 245.417,
+        "end": 246.437,
+        "text": "Just nail the big stuff.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 246.678,
+        "end": 249.68,
+        "text": "Like making sure your kids are buckled correctly in the right seat for their age and size.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 249.9,
+        "end": 252.402,
+        "text": "Learn more at NHTSA.gov slash the right seat.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 252.542,
+        "end": 256.925,
+        "text": "Visit NHTSA.gov slash the right seat.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 257.186,
+        "end": 258.807,
+        "text": "Brought to you by NHTSA and the Ad Council.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 260.373,
+        "end": 262.153,
+        "text": " When you're high, you feel different.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 262.874,
+        "end": 263.894,
+        "text": "You think different.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 263.934,
+        "end": 264.974,
+        "text": "You talk different.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 265.014,
+        "end": 265.914,
+        "text": "You draw different.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 266.134,
+        "end": 267.395,
+        "text": "You listen to music different.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 267.975,
+        "end": 268.995,
+        "text": "But you probably knew that.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 269.855,
+        "end": 273.576,
+        "text": "Problem is, you also drive different and not in a good way.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 274.336,
+        "end": 276.997,
+        "text": "That's why driving high is illegal everywhere.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 277.457,
+        "end": 279.477,
+        "text": "So if you're high, just don't drive.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 280.137,
+        "end": 281.698,
+        "text": "Make a plan to get a sober ride.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 282.318,
+        "end": 284.538,
+        "text": "Because if you feel different, you drive different.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 285.479,
+        "end": 287.339,
+        "text": "Brought to you by NHTSA and the Ad Council.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 289.725,
+        "end": 293.608,
+        "text": " Not completing high school is more of a social thing than it was an academic thing.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 293.868,
+        "end": 298.311,
+        "text": "Even though all these years have passed, I still had that longing to have my diploma.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 298.711,
+        "end": 301.633,
+        "text": "At age 30, Carissa finished her high school diploma.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 301.933,
+        "end": 305.115,
+        "text": "If you're even considering getting your high school diploma, you can do it.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 305.476,
+        "end": 306.897,
+        "text": "No one gets a diploma alone.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 307.277,
+        "end": 310.419,
+        "text": "If you're thinking of finishing your high school diploma, you have help.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 310.599,
+        "end": 314.362,
+        "text": "Find free adult education classes near you at finishyourdiploma.org.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 314.442,
+        "end": 316.203,
+        "text": "That's finishyourdiploma.org.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 316.423,
+        "end": 319.225,
+        "text": "Brought to you by the Dollar General Literacy Foundation and the Ad Council.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 320.086,
+        "end": 323.731,
+        "text": " Hey, so what's a great way to spread awareness that driving high is illegal everywhere?",
+        "speaker": "SPEAKER_19"
+    },
+    {
+        "start": 324.151,
+        "end": 325.253,
+        "text": "A catchy song, of course.",
+        "speaker": "SPEAKER_19"
+    },
+    {
+        "start": 342.844,
+        "end": 344.926,
+        "text": " Friendly reminder, don't drive high.",
+        "speaker": "SPEAKER_19"
+    },
+    {
+        "start": 345.286,
+        "end": 347.207,
+        "text": "If you feel different, you drive different.",
+        "speaker": "SPEAKER_19"
+    },
+    {
+        "start": 347.508,
+        "end": 349.329,
+        "text": "Brought to you by NHTSA and the Ad Council.",
+        "speaker": "SPEAKER_19"
+    },
+    {
+        "start": 350.27,
+        "end": 352.591,
+        "text": "You're never completely ready to adopt a teen.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 353.512,
+        "end": 355.734,
+        "text": "For late nights writing English papers.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 356.594,
+        "end": 358.236,
+        "text": "For your teen's music taste.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 358.856,
+        "end": 361.578,
+        "text": "For dinners, where they talk more on their phone than with you.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 362.058,
+        "end": 364.64,
+        "text": "For the first time, they call you mom.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 365.601,
+        "end": 368.263,
+        "text": "You're never completely ready to adopt a teen.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 368.844,
+        "end": 370.605,
+        "text": "And you can't imagine the reward.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 371.158,
+        "end": 375.082,
+        "text": " To learn more about adopting a teen, visit AdoptUSKids.org.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 375.282,
+        "end": 376.263,
+        "text": "Brought to you by the U.S.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 376.283,
+        "end": 380.067,
+        "text": "Department of Health and Human Services, AdoptUSKids, and the Ad Council.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 381.3,
+        "end": 386.321,
+        "text": " You took the first step and quit smoking, but even former smokers may still be at risk for lung cancer.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 386.741,
+        "end": 392.682,
+        "text": "That's why SavedByTheScan.org wants you to know about a new low-dose CT scan that can detect lung cancer early.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 393.082,
+        "end": 395.602,
+        "text": "It takes only 60 seconds and could save your life.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 395.983,
+        "end": 396.983,
+        "text": "You took the first step.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 397.203,
+        "end": 398.023,
+        "text": "Now take the next.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 398.303,
+        "end": 403.884,
+        "text": "Visit SavedByTheScan.org for a simple quiz to see if you're eligible and talk to your doctor about screening.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 404.464,
+        "end": 409.865,
+        "text": "SavedByTheScan.org is brought to you by the American Lung Association's Lung Force Initiative and the Ad Council.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 410.376,
+        "end": 411.657,
+        "text": " My name is Teresa Barber.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 411.877,
+        "end": 416.419,
+        "text": "I was in the United States Navy, and I served overseas in the Middle East and Africa.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 416.699,
+        "end": 423.463,
+        "text": "Early on in my career, I had a commander that taught our suicide prevention training, and the very next day, he took his own life.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 423.883,
+        "end": 426.684,
+        "text": "90% of suicide attempts involving a gun are fatal.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 427.044,
+        "end": 434.088,
+        "text": "My way of continuing my service is to help protect my community by being a responsible gun owner and by storing firearms safely.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 434.388,
+        "end": 435.929,
+        "text": "Store all your guns securely.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 436.189,
+        "end": 437.29,
+        "text": "Help stop suicide.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 437.55,
+        "end": 439.871,
+        "text": "Brought to you by N Family Fire and the Ad Council.",
+        "speaker": "SPEAKER_12"
+    },
+    {
+        "start": 440.191,
+        "end": 441.532,
+        "text": " Here's that song again.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 442.112,
+        "end": 443.413,
+        "text": "Here's that song again.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 443.433,
+        "end": 445.395,
+        "text": "For the hundredth time today.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 445.895,
+        "end": 447.256,
+        "text": "Here's that song again.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 447.636,
+        "end": 451.098,
+        "text": "It's gonna be stuck in your head all day.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 451.639,
+        "end": 452.94,
+        "text": "Here's that song again.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 453.14,
+        "end": 455.161,
+        "text": "It will make you cray cray.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 455.201,
+        "end": 458.743,
+        "text": "You love your kids enough to watch that TV show a bajillion times.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 459.084,
+        "end": 462.326,
+        "text": "Love them enough to make sure they're in the right car seat for their age and size.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 462.666,
+        "end": 463.326,
+        "text": "Show them you love them.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 463.547,
+        "end": 464.147,
+        "text": "Keep them safe.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 464.447,
+        "end": 466.949,
+        "text": "Visit NHTSA.gov slash the right seat.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 467.089,
+        "end": 469.951,
+        "text": "Brought to you by the National Highway Traffic Safety Administration and the Ad Council.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 470.631,
+        "end": 473.334,
+        "text": " My mom has decided to learn to paint and she's good.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 473.354,
+        "end": 477.678,
+        "text": "My dad's now into creative cuisine and I've already put on six pounds.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 478.458,
+        "end": 480.12,
+        "text": "Learning new things comes with age.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 480.52,
+        "end": 484.204,
+        "text": "My mom, she started forgetting my name and what we're talking about.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 484.918,
+        "end": 487.08,
+        "text": " Forgetting well-known things doesn't.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 487.46,
+        "end": 489.842,
+        "text": "Memory loss may be a sign of Alzheimer's disease.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 490.202,
+        "end": 493.324,
+        "text": "Early detection gives you and your loved one time to plan for the future.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 493.685,
+        "end": 496.707,
+        "text": "Learn the warning signs of Alzheimer's at 10science.org.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 497.047,
+        "end": 499.649,
+        "text": "Brought to you by the Alzheimer's Association and the Ad Council.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 499.669,
+        "end": 499.689,
+        "text": "908-7636.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 499.709,
+        "end": 500.31,
+        "text": "Remember, 1-800-908-7636.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 500.33,
+        "end": 503.452,
+        "text": "Sample rate quotes based on preferred non-smoker rate class.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 503.472,
+        "end": 504.373,
+        "text": "Exam required to qualify.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 512.979,
+        "end": 514.622,
+        "text": " My baby brother, a father.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 514.962,
+        "end": 516.064,
+        "text": "Come on, it's time for his nap.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 516.445,
+        "end": 517.727,
+        "text": "Whoa, he can't sleep on his stomach.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 517.987,
+        "end": 520.551,
+        "text": "Babies should always sleep on their backs in a safety-approved crib.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 520.731,
+        "end": 524.537,
+        "text": "And the sleep area should be clear of blankets, toys, and other loose or soft items.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 524.798,
+        "end": 525.919,
+        "text": "It reduces the risk of SIDS.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 526.12,
+        "end": 526.46,
+        "text": "SIDS?",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 526.661,
+        "end": 528.143,
+        "text": "You know, Sudden Infant Death Syndrome.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 528.243,
+        "end": 530.927,
+        "text": " Guess I need to start studying up on safe sleep for little man here.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 531.107,
+        "end": 533.892,
+        "text": "Being his favorite uncle comes with big responsibilities.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 534.072,
+        "end": 538.098,
+        "text": "For more information, visit safetosleep.nichd.nih.gov.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 538.218,
+        "end": 542.064,
+        "text": "Sponsored by the Eunice Kennedy Shriver National Institute of Child Health and Human Development.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 547.068,
+        "end": 556.052,
+        "text": " All right, folks, here with Dave Clements, and I've got another, and this is out of my essay that I wrote, Venezuelan Voting Machine.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 556.072,
+        "end": 570.419,
+        "text": "A New York Times article stated, \"...the federal government is investigating takeover last year of a leading American manufacturer of electronic voting systems by a small software company linked to the leftist Venezuelan government of President Hugo Chavez.\"",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 571.099,
+        "end": 582.366,
+        "text": " The inquiry is focusing on the Venezuelan owners of the software company, the Smartmatic Corporation, trying to determine whether the government in Caracas had any control or influence over the firm's operation.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 582.406,
+        "end": 585.147,
+        "text": "And that's like a no-brainer that they did.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 585.247,
+        "end": 592.872,
+        "text": "But, Dave, I didn't see anybody else writing this because when I did research on it, I found all this stuff.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 592.912,
+        "end": 596.094,
+        "text": "I was protecting myself by quoting other people.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 597.225,
+        "end": 599.788,
+        "text": " Other places like the New York Times.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 600.269,
+        "end": 601.79,
+        "text": "Well, you wouldn't have seen it, Kelly.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 602.03,
+        "end": 607.497,
+        "text": "And just fun fact, Smartmatic has headquarters in, I think, Boca, Florida.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 607.777,
+        "end": 608.578,
+        "text": "Is it Boca Raton?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 608.598,
+        "end": 610.56,
+        "text": "Boca Raton.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 610.68,
+        "end": 611.241,
+        "text": "So they're there.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 611.881,
+        "end": 618.369,
+        "text": "But the reason why you didn't see anything is not for lack of people trying to alert the American people.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 619.009,
+        "end": 624.672,
+        "text": " Mike Benz went on Tucker Carlson and he put out some statistics that were pretty shocking.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 625.433,
+        "end": 637.059,
+        "text": "If you spoke negatively in the seven months leading up to the November 3rd, 2020 election about early voting, mail-in ballots, or these machines, your posts were taken down.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 637.079,
+        "end": 641.782,
+        "text": "22 million posts that was under those three categories were perched on Twitter alone.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 642.442,
+        "end": 648.607,
+        "text": " So if you look at Twitter, Facebook, YouTube, and if you kept at it, you'd get those strikes and you'd be deplatformed.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 648.647,
+        "end": 650.348,
+        "text": "So there are people with millions of followers.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 651.423,
+        "end": 653.324,
+        "text": " that were purged along with President Trump.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 653.364,
+        "end": 660.766,
+        "text": "So, I migrated to alternative social media- Rumble.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 661.126,
+        "end": 662.387,
+        "text": "Pretty early on, yeah, rumble.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 662.927,
+        "end": 677.572,
+        "text": "But no matter where you go, it's like you run into these ceilings where you think that you're finding your groove, you're reaching people, and they've got their algorithms tuned in Facebook to make sure that people can't see your message.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 678.775,
+        "end": 685.4,
+        "text": " Well, and that's one reason I left YouTube is they have this shadow banning that is bad.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 685.44,
+        "end": 688.042,
+        "text": "But talk to me now.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 688.162,
+        "end": 691.144,
+        "text": "It's been X number of years since this first occurred.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 691.325,
+        "end": 693.366,
+        "text": "Where's the fight at now?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 693.486,
+        "end": 694.567,
+        "text": "What are we doing?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 694.627,
+        "end": 699.511,
+        "text": "I know you're an important spokesman in this.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 700.251,
+        "end": 702.613,
+        "text": "Where are we at now in trying to get our voting back?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 704.054,
+        "end": 709.338,
+        "text": " I've maintained since day one that the only way you're going to get your voting voice back is at the local level.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 709.858,
+        "end": 713.32,
+        "text": "And a lot of people look to the legislature to solve all the problems.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 713.34,
+        "end": 714.261,
+        "text": "Let's pass a new law.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 714.281,
+        "end": 717.843,
+        "text": "Well, the problem with that is in 2020, no one followed the law.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 718.183,
+        "end": 723.047,
+        "text": "Under COVID, your Department of Health had more to say about how your elections were run than your local clerks.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 724.128,
+        "end": 731.579,
+        "text": " And so if that's not an option, then people think, well, let's have a fancy lawsuit with the right magical remedy.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 732.2,
+        "end": 737.047,
+        "text": "Well, I personally reviewed over 400 election fraud lawsuits related to 2020.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 737.368,
+        "end": 739.05,
+        "text": "99% of them were dismissed for lack of standing.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 739.831,
+        "end": 742.252,
+        "text": " Meaning they weren't even set up for merits hearings.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 742.492,
+        "end": 745.574,
+        "text": "And the cases that were set up for merits hearings, they only set for about an hour.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 746.414,
+        "end": 750.576,
+        "text": "So there was a concerted effort on not getting to the truth.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 750.596,
+        "end": 752.357,
+        "text": "And you might ask yourself, well, why is that?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 752.397,
+        "end": 754.278,
+        "text": "Well, I can give you two answers.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 755.398,
+        "end": 758.92,
+        "text": "People that are part of your legislature appear on the ballot.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 759.74,
+        "end": 760.321,
+        "text": " That you vote on.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 761.101,
+        "end": 768.085,
+        "text": "And if they investigate this, and it has all kinds of issues that spring forth, they're undercutting their own position.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 768.265,
+        "end": 770.966,
+        "text": "Same thing with courts that show up on retention election ballots.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 771.587,
+        "end": 777.57,
+        "text": "So there's a vested interest from everyone that's gotten through to this date to say, I don't want to look into these black boxes.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 778.11,
+        "end": 780.151,
+        "text": "So that's part of the problem.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 780.171,
+        "end": 788.056,
+        "text": "So where I focus people's attention is, there's only one person that certifies that black box for use in your backyard, and that's your clerk.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 788.676,
+        "end": 792.117,
+        "text": " They do a logic and accuracy test about 42 days before an election.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 792.637,
+        "end": 793.898,
+        "text": "And effectively, they rubber stamp it.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 794.338,
+        "end": 796.199,
+        "text": "And they know nothing about these machines.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 796.379,
+        "end": 799.98,
+        "text": "Without a vendor holding their hand, they have no idea if there's Bluetooth capability.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 800.34,
+        "end": 802.461,
+        "text": "They have no idea whether there's chip modems affixed to there.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 803.201,
+        "end": 805.502,
+        "text": "They have no idea how to analyze the records.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 806.482,
+        "end": 811.244,
+        "text": "And so they should be held accountable before you put forth a product that is arguably defective.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 812.372,
+        "end": 816.654,
+        "text": " or facilitates fraud, they should have a level of expertise that they just don't have.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 817.254,
+        "end": 820.696,
+        "text": "And then the other group that we try to hold accountable are the certifying canvassing boards.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 820.736,
+        "end": 827.119,
+        "text": "These are your county commissioners here that take a yes-no vote after an election that everything here is above board.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 827.84,
+        "end": 833.883,
+        "text": "And the way that they can communicate to we, the people, that everything is above board is by putting a blindfold over their eyes.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 834.483,
+        "end": 838.966,
+        "text": " and plugging their ears and tuning people out, or only giving them like three minutes to talk at these commission meetings.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 839.506,
+        "end": 852.355,
+        "text": "And so the willful ignorance over elections from those that are tasked with certifying is so disgusting that you're finding people now that are willing to risk losing those positions.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 852.395,
+        "end": 856.778,
+        "text": "We've got commissioners all over the country now that are saying, you know, I'm being \u2013",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 857.778,
+        "end": 865.721,
+        "text": " I'm being told that if I don't certify this election that I know is fraudulent, that I'm gonna be charged with a felony and arrested.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 865.762,
+        "end": 870.964,
+        "text": "That happened in Otero County, that happened in Mojave County, that happened in Nevada just two weeks ago.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 870.984,
+        "end": 882.869,
+        "text": "Well, let me ask you this, when people are getting threatened like that, if they are sued, if they are prosecuted, is there a chance that their entire family will be ruined by this?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 883.809,
+        "end": 886.652,
+        "text": " Well, yeah, and we've seen people's families ruined.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 886.672,
+        "end": 887.833,
+        "text": "I mean, myself included.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 887.873,
+        "end": 894.219,
+        "text": "I can be adamant that I had five complaints, five investigations for merely commenting on election fraud.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 895.019,
+        "end": 903.767,
+        "text": "And so it's certainly something where the legal profession has been sent certain signals that if you do this, we're going to find you that you violated Rule 11.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 903.908,
+        "end": 904.808,
+        "text": "Because this is frivolous.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 904.868,
+        "end": 906.23,
+        "text": "How dare you challenge...",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 906.87,
+        "end": 907.31,
+        "text": " elections.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 907.85,
+        "end": 910.111,
+        "text": "And so you've had attorneys that have been sanctioned 20, 30, 40, $100,000.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 911.911,
+        "end": 917.133,
+        "text": "And at some point you get the memo, I'm not going to be challenging this type of case.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 917.553,
+        "end": 925.015,
+        "text": "Just like you've got an ambulance chaser that has billboards plastered across the highway for DWI and everything except for COVID.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 925.475,
+        "end": 927.055,
+        "text": "I mean, think about that.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 927.576,
+        "end": 929.116,
+        "text": "People haven't died suddenly from that.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 929.916,
+        "end": 932.517,
+        "text": "So the legal profession's pretty good about",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 933.197,
+        "end": 936.183,
+        "text": " looking at the temperature and knowing what you can argue for and not.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 936.383,
+        "end": 944.458,
+        "text": "And I think the courage factor for the legal profession when it comes to elections and the jab is about as disgusting as anything I've ever seen.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 945.655,
+        "end": 946.635,
+        "text": " Let me ask you this.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 948.136,
+        "end": 952.657,
+        "text": "Number one, there's worldwide impact from this because other countries follow the United States.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 952.737,
+        "end": 957.779,
+        "text": "If we go to electronic machines, then other countries go too, number one.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 958.539,
+        "end": 962.94,
+        "text": "But number two, how many people are we talking about being involved if there is...",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 965.081,
+        "end": 970.062,
+        "text": " If there is voter fraud in America, how many people are involved, at what levels?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 970.802,
+        "end": 973.883,
+        "text": "And then how about internationally, do we have any idea?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 974.603,
+        "end": 977.824,
+        "text": "Okay, so I can give you precise evidence here.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 978.164,
+        "end": 984.786,
+        "text": "We've analyzed in at least 1,000 different locations this thing called a cast vote record summary.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 985.666,
+        "end": 995.454,
+        "text": " And it gives you information about how votes were cast on election night and what we're finding in urban areas that there is a linear drive towards a predetermined set point.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 995.914,
+        "end": 997.155,
+        "text": "So we're not talking about voter fraud again.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 997.175,
+        "end": 1004.04,
+        "text": "We're talking about election, systemic election fraud that is predictive and it's at the code level.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1004.901,
+        "end": 1008.705,
+        "text": " So with that, it's like we're not guessing about whether or not it exists.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1008.885,
+        "end": 1009.566,
+        "text": "It exists.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1009.646,
+        "end": 1015.131,
+        "text": "The question is, like, do you have people that are courageous enough to take on the architects of that system?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1015.191,
+        "end": 1018.214,
+        "text": "And people are wondering, like, how many people?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1018.914,
+        "end": 1024.319,
+        "text": "Well, all you need is, you know, to use what we've got in play right now, which is the Department of Homeland Security.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1024.339,
+        "end": 1025.541,
+        "text": "If you want to know who they are.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1026.311,
+        "end": 1030.736,
+        "text": " The Department of Homeland Security is the entity that created our election system.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1031.337,
+        "end": 1033.839,
+        "text": "They partner with this group called the Center for Internet Security.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1033.899,
+        "end": 1036.542,
+        "text": "It's a private, nongovernmental organization.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1037.063,
+        "end": 1040.727,
+        "text": "And they're the ones that basically set up all of these defective products that we were forced to use.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1041.107,
+        "end": 1042.809,
+        "text": "And the biggest challenge isn't that we're right.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1043.59,
+        "end": 1051.794,
+        "text": " Because we know we're right is this, that when you report this to local law enforcement or you take this to a local DA or a local sheriff, they're going to look back and say, what do you want me to do?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1051.854,
+        "end": 1053.195,
+        "text": "Take on the Department of Homeland Security.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1053.215,
+        "end": 1053.916,
+        "text": "They've got badges.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1053.956,
+        "end": 1054.776,
+        "text": "They've got guns, too.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1054.856,
+        "end": 1060.979,
+        "text": "So it's basically us, you know, putting our hands up the air, trying to figure out what the hell's going on.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1061.44,
+        "end": 1064.161,
+        "text": "And the biggest problem is that these machines are...",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1066.102,
+        "end": 1089.004,
+        "text": " opaque for a reason so the complexity is astounding so that the film let my people go tries to distill the complexity in a way that's that's you know understandable we do that through using animation bringing in the top experts in the country to break down the system architecture and give you reasons why we should probably go back to a system that was tried and true which is",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1089.605,
+        "end": 1092.026,
+        "text": " You know, votes counted by your neighbors at the precinct level.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1092.286,
+        "end": 1096.247,
+        "text": "Have smaller sectors that you can have accountability.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1096.267,
+        "end": 1096.887,
+        "text": "And paper?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1097.688,
+        "end": 1098.108,
+        "text": "Absolutely.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1098.128,
+        "end": 1098.788,
+        "text": "Got to go back to paper.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1098.808,
+        "end": 1099.828,
+        "text": "Now, we've got paper now.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1100.609,
+        "end": 1108.631,
+        "text": "But the problem is that when you do an audit, they only give you a small, small portion of that paper or they only give you ballot images.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1108.691,
+        "end": 1110.412,
+        "text": "And you can't audit the vote that way.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1111.403,
+        "end": 1118.127,
+        "text": " Well, here's another, and this is from the CIA investigation, Smartmatic Communist Partnership Raised Red Flags.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1119.048,
+        "end": 1125.251,
+        "text": "In the actual Venezuela 2004 vote, Chavez faced recall behind 40 to 60 percent in polling.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1125.291,
+        "end": 1128.113,
+        "text": "Yet, in the election, Chavez squeaked out a 52-48 win.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1130.254,
+        "end": 1134.677,
+        "text": " And McClatchy News Service said, appearing last month before a U.S.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1134.737,
+        "end": 1146.206,
+        "text": "Election Assistance Commission field hearing in Orlando, Florida, a CIA cybersecurity expert suggested that Venezuelan President Hugo Chavez and his allies fixed a 2004 election recount.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1146.226,
+        "end": 1152.41,
+        "text": "So how does this company, with its entire genesis, apparently...",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1153.611,
+        "end": 1175.277,
+        "text": " um created so that they could rig the machine how do they get the contracts in america because those contracts favor uh politicians that want to retain power i mean look we talked about this at lunch yesterday the idea that these are power brokers that are responsible for the economic climate that",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1176.478,
+        "end": 1179.24,
+        "text": " where we see trillions of dollars changing hands day by day.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1179.96,
+        "end": 1191.55,
+        "text": "And so you've got devices that can guarantee who's going to be selected, all 100 of your Senate races, all 435 of your congressional races, down to the state level.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1192.17,
+        "end": 1193.551,
+        "text": "And so this is big business.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1194.192,
+        "end": 1205.141,
+        "text": "And so if you can think of organized crime working and having a foothold in other endeavors, why wouldn't we think that people would want to attack our elections with the same degree of precision?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1205.921,
+        "end": 1212.767,
+        "text": " And so, you know, one of the hallmarks of what you're reading is the CIA's involvement in the intelligence apparatus.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1212.827,
+        "end": 1221.073,
+        "text": "We've been seeing regimes, you know, thrown out at the whims of American foreign policy for 30 years using these same machines.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1222.094,
+        "end": 1229.1,
+        "text": "And no one bats an eyelash, like if you want to take out, you know, Gaddafi or anyone else overseas through an election.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1229.82,
+        "end": 1234.003,
+        "text": "But we still can't believe that we would have these machines used against us.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1235.044,
+        "end": 1236.585,
+        "text": " What would you say to the doubters?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1236.885,
+        "end": 1246.408,
+        "text": "What would you say to the people, this is a bunch of, you know, this is sour grapes, this is a bunch of conspiracy theory, and I'm not going to pay any attention to it.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1246.448,
+        "end": 1250.549,
+        "text": "What would you say if you were in an elevator with somebody like that for five or ten minutes?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1250.569,
+        "end": 1255.53,
+        "text": "You know, I think Jesus told us to just dust off your sandals and keep moving.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1255.83,
+        "end": 1257.331,
+        "text": "I don't care what the doubters say.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1257.371,
+        "end": 1259.111,
+        "text": "All I care about is what the truth is.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1260.312,
+        "end": 1262.772,
+        "text": "I would challenge people to watch Let My People Go and",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1265.054,
+        "end": 1268.778,
+        "text": " have an open opportunity to refute any of the claims that we've made in that film.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1269.599,
+        "end": 1278.43,
+        "text": "We audited here in New Mexico eight counties, and not one substantive claim that we've put out through a fully commissioned audit in Otero and other places has been debunked.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1279.551,
+        "end": 1282.655,
+        "text": "We're not working with political scientists and, you know,",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1283.455,
+        "end": 1290.983,
+        "text": " The liberal talking class, we had people from Sandia National Labs with QSCI clearances that looked at all of the data that we analyzed.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1291.804,
+        "end": 1294.806,
+        "text": "And to date, I'm still standing four years later.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1294.907,
+        "end": 1301.693,
+        "text": "And instead of me being marginalized from four years ago when I was making these claims and I was very lonely place to be, I've got so much evidence now.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1301.733,
+        "end": 1303.235,
+        "text": "It's like, where do you want to go?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1303.255,
+        "end": 1306.518,
+        "text": "And people run for the hills when it's debate time.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1306.878,
+        "end": 1314.769,
+        "text": " And did you ever get this information to anyone who was above, say, Steve Bannon or a Donald Trump?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1315.33,
+        "end": 1316.251,
+        "text": "I want to ask that.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1316.391,
+        "end": 1318.635,
+        "text": "I don't know if you want to answer it, but it's Kelly O'Connell.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1319.075,
+        "end": 1320.878,
+        "text": "Do not resuscitate radio.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1320.898,
+        "end": 1322.32,
+        "text": "We're going to be right back.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1324.286,
+        "end": 1326.367,
+        "text": " Our views, customer service is their priority.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1326.787,
+        "end": 1331.85,
+        "text": "For a free consultation and a guaranteed solution, call 844-284-4864.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1332.33,
+        "end": 1338.193,
+        "text": "That's 844-284-4864 or lonestartransfer.com.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1338.613,
+        "end": 1339.293,
+        "text": "I'm Chris Jacomek.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1339.353,
+        "end": 1342.195,
+        "text": "I served in the United States Air Force and I deployed three times.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1342.635,
+        "end": 1345.516,
+        "text": "Being a veteran, it's interwoven into your DNA.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1345.716,
+        "end": 1351.239,
+        "text": "It is really the absence of the connection and the purpose that can really drive a lot of veterans to some negative thoughts.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1351.539,
+        "end": 1356.802,
+        "text": " For those who are in a suicidal crisis, the window of time to save somebody's life is very short.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1357.122,
+        "end": 1359.683,
+        "text": "Our duty is to protect ourselves and protect our families.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1360.044,
+        "end": 1362.425,
+        "text": "And one way you can do that is store your weapons safely.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1362.785,
+        "end": 1364.146,
+        "text": "Store all your guns securely.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1364.426,
+        "end": 1365.426,
+        "text": "Help stop suicide.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1365.627,
+        "end": 1367.968,
+        "text": "Brought to you by N Family Fire and the Ad Council.",
+        "speaker": "SPEAKER_12"
+    },
+    {
+        "start": 1368.468,
+        "end": 1373.932,
+        "text": " And we're live here outside the Perez family home just waiting for the... And there they go.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1374.112,
+        "end": 1375.553,
+        "text": "Almost on time this morning.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1375.693,
+        "end": 1379.296,
+        "text": "Mom is coming out the front door strong with a double-arm kid carry.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1379.376,
+        "end": 1380.937,
+        "text": "Looks like dad has the bags.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1381.017,
+        "end": 1382.498,
+        "text": "Daughter is bringing up the rear.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1383.439,
+        "end": 1385.641,
+        "text": "Oh, but the diaper bag wasn't closed.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1385.941,
+        "end": 1388.143,
+        "text": "Diapers and toys are everywhere.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1389.163,
+        "end": 1393.547,
+        "text": " Ooh, but mom has just nailed the perfect car seat buckle for the toddler.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1394.088,
+        "end": 1399.292,
+        "text": "And now the eldest daughter, who looks to be about 9 or 10, has secured herself in the booster seat.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1399.372,
+        "end": 1401.995,
+        "text": "Dad zips the bag closed, and they're off.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1403.007,
+        "end": 1407.108,
+        "text": " Ah, but looks like mom doesn't realize her coffee cup is still on the roof of the car.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1407.468,
+        "end": 1408.769,
+        "text": "And there it goes.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1409.589,
+        "end": 1410.91,
+        "text": "Oh, that's a shame.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1410.95,
+        "end": 1412.55,
+        "text": "That mug was a fam favorite.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1412.85,
+        "end": 1414.091,
+        "text": "Don't sweat the small stuff.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1414.291,
+        "end": 1415.311,
+        "text": "Just nail the big stuff.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1415.551,
+        "end": 1418.572,
+        "text": "Like making sure your kids are buckled correctly in the right seat for their age and size.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1418.792,
+        "end": 1421.293,
+        "text": "Learn more at NHTSA.gov slash the right seat.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1421.433,
+        "end": 1425.834,
+        "text": "Visit NHTSA.gov slash the right seat.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1426.094,
+        "end": 1427.715,
+        "text": "Brought to you by NHTSA and the Ad Council.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1429.264,
+        "end": 1431.065,
+        "text": " When you're high, you feel different.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1431.785,
+        "end": 1437.929,
+        "text": "You think different, you talk different, you draw different, you listen to music different, but you probably knew that.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1438.79,
+        "end": 1442.552,
+        "text": "Problem is, you also drive different, and not in a good way.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1443.292,
+        "end": 1445.954,
+        "text": "That's why driving high is illegal everywhere.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1446.414,
+        "end": 1448.435,
+        "text": "So if you're high, just don't drive.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1449.096,
+        "end": 1450.696,
+        "text": "Make a plan to get a sober ride.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1451.277,
+        "end": 1453.538,
+        "text": "Because if you feel different, you drive different.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1454.459,
+        "end": 1456.34,
+        "text": "Brought to you by NHTSA and the Ad Council.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1458.721,
+        "end": 1462.622,
+        "text": " Not completing high school is more of a social thing than it was an academic thing.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1462.822,
+        "end": 1467.303,
+        "text": "Even though all these years have passed, I still had that longing to have my diploma.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1467.723,
+        "end": 1470.643,
+        "text": "At age 30, Carissa finished her high school diploma.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1470.923,
+        "end": 1474.144,
+        "text": "If you're even considering getting your high school diploma, you can do it.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1474.484,
+        "end": 1475.924,
+        "text": "No one gets a diploma alone.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1476.305,
+        "end": 1479.445,
+        "text": "If you're thinking of finishing your high school diploma, you have help.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1479.625,
+        "end": 1483.406,
+        "text": "Find free adult education classes near you at finishyourdiploma.org.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1483.486,
+        "end": 1485.246,
+        "text": "That's finishyourdiploma.org.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1485.466,
+        "end": 1488.287,
+        "text": "Brought to you by the Dollar General Literacy Foundation and the Ad Council.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1491.9,
+        "end": 1505.171,
+        "text": " Folks, back here, Dave is with me, and I was asking, did you run into anybody who's working on this, whether it would be Steve Bannon or maybe even Donald Trump?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1505.851,
+        "end": 1509.715,
+        "text": "And what is your answer?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1510.655,
+        "end": 1512.457,
+        "text": "Yeah, no, I've had the great...",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1513.138,
+        "end": 1536.528,
+        "text": " opportunity of meeting lots of people that i never thought i would meet you know you had mike lindell from my pillow who had a huge platform probably one of the most recognizable people on planet earth that i've done summer kind of symposiums three years in a row and we've reached hundreds of millions of people around the world through those symposiums steve banning i think",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1537.308,
+        "end": 1541.552,
+        "text": " Has anywhere from two to four million hits a day on the war room.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1541.652,
+        "end": 1544.215,
+        "text": "And, you know, so I've been able to come on his show and report.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1544.875,
+        "end": 1550.601,
+        "text": "And as far as the president, President Trump, I know he's familiar with some of our work because he's truth.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1550.881,
+        "end": 1556.386,
+        "text": "Some of the stuff that happened in Mexico from audits, from hearings that I presented evidence at.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1556.806,
+        "end": 1561.851,
+        "text": "And he's reached through stories that were written by my wife, who's also an engineer and auditor.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1562.748,
+        "end": 1570.571,
+        "text": " And so we know it's a small community of people that actually have had their hands on ballots, have had their hands on the machines.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1571.251,
+        "end": 1580.455,
+        "text": "And I count myself as very fortunate that out of kind of the 20 people that really know what the hell they're talking about in America, I know all of them.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1581.215,
+        "end": 1588.938,
+        "text": "And so the right people have had President Trump as an audience member and been able to give him debrief.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1589.078,
+        "end": 1589.158,
+        "text": "And",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1590.137,
+        "end": 1601.846,
+        "text": " And I think some of the marching orders right now, he's telegraphed that he gets it because he's pushing for paper ballots only, one day for elections, using voter ID.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1601.866,
+        "end": 1606.869,
+        "text": "And there's still some confusion on what the best way of voting is.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1606.889,
+        "end": 1612.033,
+        "text": "There are people that are promoting mail-in, using mail-in ballots and voting early.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1612.573,
+        "end": 1616.456,
+        "text": "I believe that the best course of action is to vote in person on Election Day.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1618.037,
+        "end": 1628.429,
+        "text": " And because the reason being is that you want to delay the amount of information you give to bad actors so they can't model their algorithms to basically defraud you.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1628.83,
+        "end": 1632.374,
+        "text": "So the more that you can hang on to your ballot.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1632.954,
+        "end": 1636.137,
+        "text": " and vote, the better it is for elections until we get rid of these machines.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1636.818,
+        "end": 1641.221,
+        "text": "Okay, and you are an out-of-the-closet Christian.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1641.241,
+        "end": 1649.088,
+        "text": "Do you ever say to yourself certain things happened that seemed like it had the touch of higher power, maybe?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1650.429,
+        "end": 1653.772,
+        "text": " Yeah, for me, it was, I think, January 6th, 2021.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1654.393,
+        "end": 1658.776,
+        "text": "I was watching C-SPAN like everyone else trying to say, what is going on here?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1659.717,
+        "end": 1667.903,
+        "text": "Is Congress going to actually investigate what many people complained about for December and around the November-December framework of 2020?",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1667.943,
+        "end": 1668.023,
+        "text": "Yeah.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1671.46,
+        "end": 1686.685,
+        "text": " From that moment, I started making a stand where I'm like, you know, I don't care about my job at the university if the bedrock of how elections function in our country aren't worth the ballots that they're printed on.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1687.705,
+        "end": 1696.888,
+        "text": "And so I certainly feel like God has orchestrated a great drama for me where I've met people that I didn't believe I'd ever meet.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1696.908,
+        "end": 1699.729,
+        "text": "I mean, meeting the president, I met President Trump in August of 2021 was...",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1701.229,
+        "end": 1726.612,
+        "text": " surreal experience flying on michael lindell's plane and going to these things or i mean you kind of have to pinch yourself so yeah it's hard to not see providence at work and like the assassination attempt and stuff adds to that yeah the assassination attempt and really i think um i don't give too much thought to it kelly because we haven't won yet um and if trump gets back in office and we get to clean house with all kinds of these bad players then um",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1727.461,
+        "end": 1735.949,
+        "text": " I'll feel like it's a lot more providential than it feels like right now, but we're still kind of fighting for what's left of this country with all the madness that we're seeing.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1736.489,
+        "end": 1738.972,
+        "text": "And so you've talked to Donald Trump.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1739.052,
+        "end": 1746.999,
+        "text": "What is he like in person that maybe wouldn't be picked up on TV or that people haven't talked about?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1747.8,
+        "end": 1749.281,
+        "text": "What is the man himself like?",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1750.302,
+        "end": 1750.622,
+        "text": "Well, he...",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1753.064,
+        "end": 1760.09,
+        "text": " You know, walked into his office in Bedminster, and I would say he's present, number one.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1760.57,
+        "end": 1764.434,
+        "text": "And number two, he's got a radar that you just, you wouldn't believe.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1764.454,
+        "end": 1766.035,
+        "text": "I mean, he's super focused.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1766.055,
+        "end": 1766.816,
+        "text": "He's reading the room.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1767.776,
+        "end": 1771.319,
+        "text": "And you just get a sense that he knows a lot more than he lets on.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1771.52,
+        "end": 1775.803,
+        "text": "And he only lets you have information that he's willing to give you.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1777.184,
+        "end": 1778.025,
+        "text": "He's a poker player.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1778.065,
+        "end": 1778.826,
+        "text": "He's a horse trader.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1780.927,
+        "end": 1781.688,
+        "text": " At the highest level.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1782.008,
+        "end": 1788.773,
+        "text": "And so there's a reason why he has the respect of our adversaries, whether it's Putin or anyone else.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1789.574,
+        "end": 1794.658,
+        "text": "And I got to see that for about three and a half hours on an evening in August a few years back.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1795.499,
+        "end": 1796.539,
+        "text": "And so, yeah, sharp.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1796.92,
+        "end": 1797.42,
+        "text": "Someone that...",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1798.621,
+        "end": 1800.683,
+        "text": " You know, does not disappoint when you meet him in person.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1801.363,
+        "end": 1806.088,
+        "text": "I think what people don't realize, though, is that he's just he's a really good person.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1806.108,
+        "end": 1807.949,
+        "text": "You see that by the way that he treats people.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1808.009,
+        "end": 1815.856,
+        "text": "I mentioned this to you yesterday that he's like an old grandpa with cash in his hand and he's constantly just tipping the bus.",
+        "speaker": "SPEAKER_18"
+    }
+]

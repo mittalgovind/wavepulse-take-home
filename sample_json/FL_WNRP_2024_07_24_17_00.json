@@ -1,0 +1,2360 @@
+[
+    {
+        "start": 0.589,
+        "end": 3.15,
+        "text": " WNRP, Gulf Breeze, Milton, Pensacola.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 4.15,
+        "end": 6.41,
+        "text": "When you gotta start your day, you gotta wah-wah.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 6.67,
+        "end": 7.851,
+        "text": "One station does more.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 8.251,
+        "end": 11.431,
+        "text": "CYWEAR is Northwest Florida's news leader.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 12.012,
+        "end": 13.972,
+        "text": "Baptist Heart and Vascular Institute.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 14.292,
+        "end": 15.792,
+        "text": "Let Baptists make it better.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 20.653,
+        "end": 22.234,
+        "text": "WEAR News at 4.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 22.854,
+        "end": 23.514,
+        "text": "Starts now.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 26.616,
+        "end": 27.316,
+        "text": " Good afternoon.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 27.336,
+        "end": 31.678,
+        "text": "A Pensacola man is in the Santa Rosa County Jail after a death in Escambia County.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 32.079,
+        "end": 37.201,
+        "text": "The Sheriff's Office arrested Timothy Kramer after finding his wife dead from a gunshot wound.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 37.221,
+        "end": 39.702,
+        "text": "47-year-old Rosa Kramer was reported missing yesterday.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 40.022,
+        "end": 43.324,
+        "text": "Deputies found her dead at a home on Hillcrest Avenue around midnight.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 43.704,
+        "end": 47.586,
+        "text": "They also found a dog with a gunshot wound and took it to a vet where it later died.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 47.986,
+        "end": 50.347,
+        "text": "Kramer was arrested by Milton Police this morning.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 50.688,
+        "end": 52.969,
+        "text": "He's charged with homicide and animal cruelty.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 53.969,
+        "end": 60.757,
+        "text": " With a busy election season less than a month away, Escambia County is making sure all of its voting machines are up to par ahead of the primaries.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 61.117,
+        "end": 63.079,
+        "text": "We got a behind-the-scenes look at how it all works.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 63.982,
+        "end": 66.284,
+        "text": " It's called the logic and accuracy test.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 66.544,
+        "end": 75.609,
+        "text": "This is where we test the equipment that will be deployed for the election, making sure that it all works properly, but really to make sure that a vote for Robert gets counted as a vote for Robert.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 75.83,
+        "end": 82.434,
+        "text": "Going through all of the various potential scenarios that could happen on election day, like if a ballot is duplicated or spoiled.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 82.514,
+        "end": 89.018,
+        "text": "We run all the actual ballots that we'll be using on election day, and again, make sure that those votes are counted accurately.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 89.338,
+        "end": 90.659,
+        "text": " This is a vote-by-mail ballot.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 90.759,
+        "end": 94.363,
+        "text": "We know it's a vote-by-mail ballot because it has the V up at the top of it.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 94.743,
+        "end": 99.347,
+        "text": "So this machine should reject that ballot because it was intended for vote-by-mail.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 99.968,
+        "end": 104.793,
+        "text": "Ballots can go in head first, feet first, face up, face down, any way but sideways.",
+        "speaker": "SPEAKER_21"
+    },
+    {
+        "start": 113.268,
+        "end": 117.151,
+        "text": " They even have ADA accessible machines for people who may be blind or deaf.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 117.632,
+        "end": 122.436,
+        "text": "Bender says there are 80 precincts in Escambia County and 72 polling locations.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 122.776,
+        "end": 127.56,
+        "text": "We'll be polling about 86 of the tabulators during this primary election.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 127.72,
+        "end": 130.582,
+        "text": "And so we've gone and tested a percentage of those.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 130.642,
+        "end": 133.625,
+        "text": "He says he's expecting a lot of foot traffic to the polls.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 134.265,
+        "end": 136.147,
+        "text": " We expect a high turnout for the general.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 136.647,
+        "end": 139.589,
+        "text": "We're probably going to look at about 35, 40 percent for the primary.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 140.15,
+        "end": 145.674,
+        "text": "We did have our books closing, so the last day for people to register or change their party has already passed.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 146.375,
+        "end": 148.376,
+        "text": "They can still request a vote by mail ballots.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 148.917,
+        "end": 151.359,
+        "text": "We've had about 26,000 ballots go out already.",
+        "speaker": "SPEAKER_11"
+    },
+    {
+        "start": 151.659,
+        "end": 155.442,
+        "text": "He says the deadline is August 8th to request a vote by mail ballot.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 157.509,
+        "end": 162.352,
+        "text": " Since the last presidential election, there has been some distrust about if votes were counted accurately.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 162.372,
+        "end": 166.554,
+        "text": "Here are the steps the county makes sure that they are tonight at 5 o'clock.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 169.588,
+        "end": 173.19,
+        "text": " The Navarre Chamber is hosting a candidate forum for Santa Rosa County seats.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 173.57,
+        "end": 177.712,
+        "text": "They've invited people running for the State House and Senate, school board and superintendent.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 178.112,
+        "end": 183.295,
+        "text": "It starts at 5.30 tonight at East Bay K-8 School on Elkhart Drive.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 184.015,
+        "end": 188.237,
+        "text": "The Florida Department of Education is releasing report cards for schools and school districts.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 188.657,
+        "end": 193.88,
+        "text": "Escambia County Public Schools earned a B. Santa Rosa and Okaloosa County school districts both got an A.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 194.46,
+        "end": 201.906,
+        "text": " Looking at the breakdown for individual schools county by county, these numbers include charter schools, some of which are not overseen by their local school district.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 202.346,
+        "end": 210.092,
+        "text": "Half of Escambia County schools earned a C. The only D was for Warrington Prep, formerly known as Warrington Middle, which is not part of the school district.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 210.592,
+        "end": 212.793,
+        "text": " Most Santa Rosa County schools earned A's and B's.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 212.913,
+        "end": 216.634,
+        "text": "Baghdad Elementary and Coastal Connections Academy earned the only D's.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 217.095,
+        "end": 219.476,
+        "text": "Okaloosa County schools earned mostly A's and B's.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 219.576,
+        "end": 225.078,
+        "text": "No D's here, but Destin High, Emerald Coast Career Institute, and Richburg School were given incompletes.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 227.737,
+        "end": 232.381,
+        "text": " And joining us now, the superintendent of Escambia County Public Schools, Keith Leonard.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 232.561,
+        "end": 234.743,
+        "text": "Welcome and congratulations.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 234.763,
+        "end": 235.563,
+        "text": "Thank you for having me.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 235.623,
+        "end": 239.746,
+        "text": "There's some very big news coming out of Escambia County.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 240.107,
+        "end": 241.788,
+        "text": "We have no DNF schools.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 242.528,
+        "end": 244.27,
+        "text": "And last year, we had nine.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 244.55,
+        "end": 244.91,
+        "text": "Correct.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 245.19,
+        "end": 248.153,
+        "text": "To what do you attribute this incredible success?",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 248.573,
+        "end": 256.697,
+        "text": " Hard work and commitment by 37,000 plus students, 2,700 plus students, and all the employees of the Escambia County School District.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 257.057,
+        "end": 260.819,
+        "text": "Pulling hard, working all in the same direction, and caring about one another.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 261.239,
+        "end": 263.7,
+        "text": "Really, really excited about these results.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 263.82,
+        "end": 275.645,
+        "text": " But to see that kind of a turnaround in a year's time, there seems like there would have been something or some things that you could attribute that to.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 276.025,
+        "end": 290.852,
+        "text": "So, you know, we really began to focus on the learning model that we have in Escambia County, whether it be pacing guides, subject area coursework, making certain that all the teachers in all of our schools are in the same place at the same time, teaching very rigorous subject area matter.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 291.853,
+        "end": 301.8,
+        "text": " And then, you know, from one year ago when you and I met and started talking about what we were going to do in Escambia County Public Schools, we've been focusing in on attendance, behavior, and stability.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 302.46,
+        "end": 305.323,
+        "text": "Those students in our school district know we love and care about them.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 305.343,
+        "end": 309.366,
+        "text": "They know we're going to give them the resources and the things that they need to be successful.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 309.766,
+        "end": 312.108,
+        "text": "We set very high expectations for our students.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 312.928,
+        "end": 320.73,
+        "text": " When you do something like that, when you start making those kinds of changes, it would seem that you need to have buy in from everybody.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 321.23,
+        "end": 323.691,
+        "text": "You started out initially talking about the students.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 323.711,
+        "end": 328.532,
+        "text": "You started talking about the educators, the teachers that you got them on board.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 329.112,
+        "end": 331.392,
+        "text": "What about getting the parents on board?",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 331.492,
+        "end": 333.913,
+        "text": "Obviously, you had to have some connection to the homes.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 334.113,
+        "end": 334.693,
+        "text": " Yes, ma'am.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 334.713,
+        "end": 335.513,
+        "text": "You know, that's right.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 335.914,
+        "end": 339.035,
+        "text": "We talked about SEC, students, employees, and community.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 339.435,
+        "end": 348.958,
+        "text": "And we have seen tremendous buy-in from our community, whether it be right here at WAR, Navy Federal, just a multitude of community partners stepping up.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 349.458,
+        "end": 353.522,
+        "text": " A couple of weeks ago, I had the opportunity to visit out of the Pensacola Naval Air Station.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 353.942,
+        "end": 357.185,
+        "text": "They are our partners in public education here in Escambia County.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 358.186,
+        "end": 360.288,
+        "text": "And I'm starting to see that with our community members.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 360.588,
+        "end": 363.811,
+        "text": "They all realize that we're going to be pulling in the same direction.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 364.332,
+        "end": 366.794,
+        "text": "We need their help, and they are stepping up to do so.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 367.014,
+        "end": 378.348,
+        "text": " Now, that is one of the criticisms, and let's talk about that, that we have heard from the military community when it comes to Escambia County, that they needed to see improvements and changes in the educational system here.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 378.848,
+        "end": 379.769,
+        "text": "Yes, ma'am.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 379.85,
+        "end": 384.976,
+        "text": "That this was a failing so far as they saw and something that had to change.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 385.216,
+        "end": 385.656,
+        "text": " Yes, ma'am.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 386.216,
+        "end": 392.178,
+        "text": "And I think these results will show that at least for one year, they did change in a very positive direction.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 392.678,
+        "end": 396.199,
+        "text": "The tough part is for 24-25, that sustainability.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 396.499,
+        "end": 404.241,
+        "text": "But I believe we have tough, committed individuals, whether it be the students or our employees, that are going to make sure they continue to strive for that success.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 404.241,
+        "end": 405.943,
+        "text": " All right, you talked about sustainability.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 405.963,
+        "end": 406.403,
+        "text": "Yes, ma'am.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 406.423,
+        "end": 409.666,
+        "text": "What needs to happen from here to get those grades, one, even higher?",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 409.807,
+        "end": 410.267,
+        "text": "Correct.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 410.367,
+        "end": 412.109,
+        "text": "Or certainly to sustain those.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 412.249,
+        "end": 414.311,
+        "text": "Where do you see areas of improvement?",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 414.351,
+        "end": 417.154,
+        "text": "What are you looking at August 12th, a new school year?",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 417.234,
+        "end": 417.394,
+        "text": "Right.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 417.414,
+        "end": 419.677,
+        "text": "What things are you implementing going forward?",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 419.737,
+        "end": 423.721,
+        "text": "So we need to make certain we continue to work on reading proficiency.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 424.421,
+        "end": 431.489,
+        "text": " Last year we saw, I think it was right out of 48 or 49 percent of our students that entered kindergarten were ready to read.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 431.65,
+        "end": 435.994,
+        "text": "As you know, we've partnered with Building Brains at the Studer Community Institute.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 436.095,
+        "end": 438.657,
+        "text": "I believe we'll begin to see that number rise.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 439.138,
+        "end": 450.005,
+        "text": " Our families start realizing that the better prepared a child is when they get to kindergarten, it's going to help them be successful in early grades, more importantly in school, and then certainly in life.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 451.105,
+        "end": 459.851,
+        "text": "Reading proficiency, math proficiency, I think I shared with Brent here just a little while ago, about 90% of our students at Molino Park Elementary School...",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 460.251,
+        "end": 461.572,
+        "text": " We're proficient in math.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 461.932,
+        "end": 464.014,
+        "text": "It was like 91% at NB Cook.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 464.314,
+        "end": 469.519,
+        "text": "Those are two different communities, yet you see a really good success rate as it relates to proficiency.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 470.499,
+        "end": 484.871,
+        "text": "We had one school that moved from a D to an A. Being able to sustain that is going to be critical so that the perception in our community is that we are your schools of choice and that our community will continue to pull for this Canby County school system.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 485.151,
+        "end": 485.452,
+        "text": " All right.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 485.572,
+        "end": 488.716,
+        "text": "Once again, Superintendent Keith Leonard, congratulations to you.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 489.076,
+        "end": 489.477,
+        "text": "Yes, ma'am.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 490.138,
+        "end": 492.741,
+        "text": "Looking forward to the 24-25 school year.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 492.962,
+        "end": 494.143,
+        "text": "Thank you for what you do for us, Ms.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 494.163,
+        "end": 494.403,
+        "text": "Strawn.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 494.423,
+        "end": 494.844,
+        "text": "All right.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 494.864,
+        "end": 495.485,
+        "text": "Appreciate you.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 496.807,
+        "end": 499.811,
+        "text": "First Morning Weather, sponsored by Pensacola State College.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 501.755,
+        "end": 503.296,
+        "text": " We are halfway through the week.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 503.316,
+        "end": 504.497,
+        "text": "Alan, what do you have for us?",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 504.898,
+        "end": 506.699,
+        "text": "We are, and we've had these high rain chances.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 506.719,
+        "end": 509.101,
+        "text": "A lot of it has been inland and away from the coast.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 509.481,
+        "end": 512.864,
+        "text": "In fact, a lot of heavy rain here around Defuniac Springs area, right on top of it.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 513.184,
+        "end": 515.846,
+        "text": "Still a flash flood warning that's posted until 5.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 516.247,
+        "end": 519.009,
+        "text": "Should drop after that, but there's still some rain coming down for that area.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 519.269,
+        "end": 520.43,
+        "text": "And it's certainly been hit and miss.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 520.45,
+        "end": 522.572,
+        "text": "There's some heavy rain up in the northern part of...",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 523.052,
+        "end": 524.213,
+        "text": " It's Gambia County, Florida.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 524.233,
+        "end": 526.614,
+        "text": "A little bit of thunder and lightning with that one as well.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 526.894,
+        "end": 529.515,
+        "text": "You can see that it is moving and shifting toward the east.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 529.795,
+        "end": 532.656,
+        "text": "If it holds together, it might bring some rain to areas around Highway 29.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 533.336,
+        "end": 535.697,
+        "text": "As we look at the coast, though, the coast is clear.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 535.837,
+        "end": 536.277,
+        "text": "It's sunny.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 536.337,
+        "end": 537.418,
+        "text": "Our Hardee's Beach can view.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 537.458,
+        "end": 537.838,
+        "text": "Look at that.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 538.178,
+        "end": 538.698,
+        "text": "Sunshine.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 538.778,
+        "end": 542.74,
+        "text": "Light crowd at the beach today, though, but overall, the conditions look nice for swimming.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 542.78,
+        "end": 547.362,
+        "text": "Our temperatures are cooled around some areas where we've had a little bit of rain and cloud cover.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 547.702,
+        "end": 552.825,
+        "text": " But again, today, much like yesterday, along that coastal area, we're looking at about 90 degrees there.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 553.186,
+        "end": 556.568,
+        "text": "So it's a little hotter there where the sun is out and we didn't see the rain.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 556.608,
+        "end": 558.669,
+        "text": "Blue Wahoos with a game tonight should be a good one.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 558.969,
+        "end": 560.41,
+        "text": "It'll be a hot night at the ballpark.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 560.43,
+        "end": 563.552,
+        "text": "You know that with temperatures that'll be in the 80s all the way through the game.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 563.933,
+        "end": 568.295,
+        "text": "And then over the next couple of days, we've got a rain chance that does run at about 70%.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 568.335,
+        "end": 573.679,
+        "text": "We'll find out how high that chance is for rain over the weekend, Saturday and Sunday in my full report.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 574.775,
+        "end": 575.176,
+        "text": " Thank you, Alan.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 575.196,
+        "end": 575.976,
+        "text": "Looking forward to it.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 576.397,
+        "end": 579.38,
+        "text": "A new multi-use path is now open on Perdido Key.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 579.461,
+        "end": 581.663,
+        "text": "Escambia County leaders cut the ribbon yesterday.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 582.044,
+        "end": 584.486,
+        "text": "It's already being used by residents and visitors.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 584.827,
+        "end": 590.513,
+        "text": "The path is just over four miles long, stretching from River Road to the western boundary of Perdido Key State Park.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 590.994,
+        "end": 594.858,
+        "text": "It links residential properties, businesses, and recreational areas together.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 596.235,
+        "end": 600.738,
+        "text": " An ambitious plan for a 15-mile-long multi-use path is gaining support.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 601.079,
+        "end": 605.322,
+        "text": "We'll hear more about the proposed Bluff Line project coming up in about 10 minutes.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 607.323,
+        "end": 613.728,
+        "text": "One of the most crowded states already, the population boom in Florida and where it is expected to go in the next 10 years.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 615.109,
+        "end": 620.093,
+        "text": "And a new look for emergency vehicles, the improvements you can't see from the outside.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 620.133,
+        "end": 620.834,
+        "text": "That's after the break.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 621.693,
+        "end": 624.015,
+        "text": " It's that time of year again, hurricane season.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 624.035,
+        "end": 631.5,
+        "text": "News Radio 92.3 provides informative, local, and dependable coverage to make sure you're informed of any major storms coming to our area.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 631.84,
+        "end": 637.023,
+        "text": "Before a storm, we keep you informed of the storm's track, where food and gas shortages occur, and where you can get sandbags.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 637.103,
+        "end": 642.747,
+        "text": "During the storm, we stay on the air to let you know where the storm is headed, where power outages occur, road closures, and other storm warnings.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 642.767,
+        "end": 646.209,
+        "text": "Then after the storm, we get you the information to help you recover from the storm.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 646.229,
+        "end": 650.953,
+        "text": "News Radio 92.3, informative, local, dependable, hurricane headquarters.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 654.916,
+        "end": 663.704,
+        "text": " local and national news sports and pop culture with traffic and weather on the fives and your texts it's pensacola right now",
+        "speaker": "SPEAKER_19"
+    },
+    {
+        "start": 671.281,
+        "end": 676.289,
+        "text": " We welcome you into a Wednesday edition of Pensacola Right Now on NewsRadio Pensacola.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 676.449,
+        "end": 679.193,
+        "text": "Informative, local, and dependable.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 679.774,
+        "end": 683.379,
+        "text": "Thanks so much for tuning in and making us part of your afternoon each and every day.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 683.459,
+        "end": 684.701,
+        "text": "We certainly appreciate it.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 684.741,
+        "end": 686.304,
+        "text": "Do not at all take that for granted.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 686.864,
+        "end": 689.125,
+        "text": " Text line 850-437-1620.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 689.525,
+        "end": 692.587,
+        "text": "Traffic line 2626-111.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 693.747,
+        "end": 695.868,
+        "text": "We say hello to Austin.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 695.988,
+        "end": 698.829,
+        "text": "Austin, looking a little sleepy today.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 698.849,
+        "end": 704.172,
+        "text": "You were we were talking before we came on just a moment ago.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 704.872,
+        "end": 708.354,
+        "text": "And like you are want to do pretty much every single night.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 708.374,
+        "end": 709.214,
+        "text": "Right.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 709.314,
+        "end": 711.415,
+        "text": "You stay up.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 711.915,
+        "end": 740.975,
+        "text": " long hours you were up till about two o'clock three o'clock in the morning lately and you stumbled upon um a guy that may maybe some of uh some of uh residents in santa rosa county need no introduction to uh mr reggie slack somehow uh you stumbled on him uh via youtube or google or something like that and uh he he is a business owner in milton now but you were just uh",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 741.335,
+        "end": 745.26,
+        "text": " looking up all sorts of Canadian football highlights yesterday.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 745.28,
+        "end": 746.461,
+        "text": "It wasn't quite that simple.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 746.561,
+        "end": 752.808,
+        "text": "I was talking to my brother about when Houston, back in 1989, scored 95 points on SMU.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 753.189,
+        "end": 755.231,
+        "text": "And I was talking about how their quarterback was... Andre Ware.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 755.391,
+        "end": 758.435,
+        "text": "Yes, quarterback was Heisman winner Andre Ware, who was on, like...",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 759.275,
+        "end": 784.009,
+        "text": " 1997 winnipeg or something back when they won the great cup i don't know my facts could be off there and then i saw a name that was listed on one of the rosters that said reggie slack and i'm like that name rings a bell to me i clicked on his wikipedia and it said he was born in milton florida and he owns like a pizza place in navarre now all right that was like i found all this out at 3 30 and i'm like where have i heard that name reggie slack because clearly it's a name i know from somewhere if it's a local name so i um looks like he played at auburn",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 784.289,
+        "end": 784.429,
+        "text": " Yes.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 784.449,
+        "end": 785.27,
+        "text": "From the looks of things?",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 785.31,
+        "end": 785.77,
+        "text": "He did.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 785.81,
+        "end": 792.334,
+        "text": "So if anybody has some deep dive on Reggie Slack, 437-1620.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 792.734,
+        "end": 800.919,
+        "text": "Well, that is what we have an intern for because we have intern Nadia joining us for the first hour today.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 800.959,
+        "end": 803.221,
+        "text": "She'll be with us the full length of the show tomorrow.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 803.781,
+        "end": 808.324,
+        "text": "Nadia, you got to digging a little bit on Mr. Slack.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 808.384,
+        "end": 812.446,
+        "text": "Have you found out where this particular business in Navarre is?",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 812.486,
+        "end": 813.227,
+        "text": "What's the name of it?",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 813.487,
+        "end": 816.248,
+        "text": " It's called Papa's Pizza in Navarre.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 816.529,
+        "end": 820.611,
+        "text": "I'm trying to find the exact one because I think there's a few called Papa's Pizza.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 820.631,
+        "end": 823.512,
+        "text": "So I'm trying to dig around, see what I can find.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 823.632,
+        "end": 826.734,
+        "text": "All this guy did was play football and open a business and we're talking about it.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 826.834,
+        "end": 827.194,
+        "text": "Listen.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 827.234,
+        "end": 827.754,
+        "text": "Out of nowhere.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 828.115,
+        "end": 828.915,
+        "text": "He did something, right?",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 828.955,
+        "end": 829.095,
+        "text": "Yeah.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 829.115,
+        "end": 830.056,
+        "text": "This is your fault.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 830.316,
+        "end": 834.718,
+        "text": "This is, I mean, a legacy that apparently needs more building on, right?",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 834.878,
+        "end": 837.681,
+        "text": " We're talking about him right now, the legend of Reggie Slack.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 837.921,
+        "end": 841.885,
+        "text": "And I don't know anything about him other than what I learned 12 hours ago.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 842.125,
+        "end": 843.266,
+        "text": "So that's pretty cool.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 843.286,
+        "end": 853.797,
+        "text": "Well, we dedicate today's show to Mr. Reggie Slack, his distinguished career at Auburn and the CFL, and now as a business owner.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 854.538,
+        "end": 857.18,
+        "text": "Looking here at our top three stories.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 858.001,
+        "end": 859.102,
+        "text": " Another busy day today.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 859.262,
+        "end": 874.372,
+        "text": "Austin is gearing up for another late night with the president, said to address the nation in his first on-camera appearance since he dropped out of the 2024 presidential race, telling his campaign workers Monday that dropping out is the right thing to do.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 874.892,
+        "end": 876.853,
+        "text": "His speech will be at 7 o'clock our time.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 876.893,
+        "end": 879.915,
+        "text": "We will carry it live right here on NewsRadio Pensacola.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 880.376,
+        "end": 885.459,
+        "text": "Also, Kamala Harris's presidential campaign is vetting potential running mates,",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 886.059,
+        "end": 890.861,
+        "text": " as the campaign has requested vetting materials from several potential running mates.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 891.181,
+        "end": 900.084,
+        "text": "Those include Pennsylvania Governor Josh Shapiro, North Carolina's Roy Cooper, Michigan Governor Gretchen Whitmer, and Arizona Senator Mark Kelly.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 900.724,
+        "end": 910.728,
+        "text": "Also today in Washington, Israeli Prime Minister Benjamin Netanyahu, addressing a joint session of Congress, says the war in Gaza is a clash between barbarism and civilization.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 913.969,
+        "end": 917.273,
+        "text": " Netanyahu delivered a dress stressing that the U.S.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 917.313,
+        "end": 925.363,
+        "text": "and Israel must stand together against Iran's axis of terror and praised the president for being an ally to Israel for decades.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 925.463,
+        "end": 929.087,
+        "text": "It's a clash between those who glorify death.",
+        "speaker": "SPEAKER_12"
+    },
+    {
+        "start": 930.006,
+        "end": 931.588,
+        "text": " and those who sanctify life.",
+        "speaker": "SPEAKER_12"
+    },
+    {
+        "start": 932.509,
+        "end": 944.145,
+        "text": "And Netanyahu's visit met with large demonstrations around the Capitol that included thousands of pro-Palestinian protesters and also dozens of Democrats boycotted the speech today.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 944.165,
+        "end": 945.947,
+        "text": "4.15, time for traffic and weather.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 946.087,
+        "end": 947.169,
+        "text": "Austin, what are you seeing out there?",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 947.349,
+        "end": 950.451,
+        "text": " Well, the first thing I'm seeing is that this traffic update is brought to you by Frontier Motors.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 950.471,
+        "end": 953.173,
+        "text": "That is the only dealer Dave Ramsey recommends in Pensacola.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 953.493,
+        "end": 955.014,
+        "text": "That's Frontier Motors on Beverly Parkway.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 955.334,
+        "end": 958.076,
+        "text": "Looking at the roads here, Joe, we did have an accident reported earlier.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 958.096,
+        "end": 963.0,
+        "text": "This is going to be on Nine Mile Road right as you're traveling eastbound trying to get onto I-10 East.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 963.04,
+        "end": 965.761,
+        "text": "It doesn't appear to be causing much, if any, backups at this time, though.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 966.082,
+        "end": 969.864,
+        "text": "Outside of that little spot, it's a bit more of what we deal with every other day this hour.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 969.944,
+        "end": 972.286,
+        "text": "Pine Forest Road traveling northbound towards Nine Mile.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 972.786,
+        "end": 975.408,
+        "text": " Gulf Breeze Parkway traveling eastbound towards the Tiger Point area.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 975.688,
+        "end": 980.972,
+        "text": "A lot of backups on Navarre Parkway if you're traveling westbound passing through Windhaven Beach and then a bit further west as you approach Highway 87.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 981.493,
+        "end": 983.474,
+        "text": "And the last major spot is going to be Caroline Street.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 983.494,
+        "end": 987.317,
+        "text": "That's Highway 90 if you're traveling westbound coming over Blackwater River and heading into downtown Milton.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 988.101,
+        "end": 992.824,
+        "text": " The high rain chance continues and a shower or a thunderstorm could pop up at about any time.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 992.864,
+        "end": 995.745,
+        "text": "Look for that to be in the daytime hours or at night.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 996.286,
+        "end": 1000.028,
+        "text": "As we look ahead, we've got a 50% chance for rain Saturday and Sunday.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1000.588,
+        "end": 1006.751,
+        "text": "And our highs will continue to be in the upper 80s to low 90s with overnight lows mainly in the upper 70s.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1007.132,
+        "end": 1010.994,
+        "text": "I'm meteorologist Alan Strom with your first warning WEAR News weather forecast.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1011.634,
+        "end": 1015.156,
+        "text": " All right, 416, taking a look at our local headlines today.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1015.176,
+        "end": 1020.219,
+        "text": "A Pensacola man now jailed, accused of fatally shooting both his wife and dog.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1020.319,
+        "end": 1028.924,
+        "text": "That's 51-year-old Timothy Kramer taken into custody yesterday, or rather today, by Milton Police, booked into the Santa Rosa County Jail.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1028.944,
+        "end": 1031.185,
+        "text": "He's charged with homicide and animal cruelty.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1031.845,
+        "end": 1035.327,
+        "text": "Late last night, the Escambia Sheriff's Office issued a missing statement.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1035.407,
+        "end": 1038.728,
+        "text": " person's alert for 47-year-old Rosa Kramer.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1039.669,
+        "end": 1049.232,
+        "text": "Deputies say Rosa's body was later found inside a home on Hillcrest Avenue, a dog also found injured and then died at the vet from its injuries.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1050.513,
+        "end": 1056.435,
+        "text": "Also, big news for Escambia and Santa Rosa counties today with the school districts, particularly the",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1056.915,
+        "end": 1066.982,
+        "text": " State Board of Education releasing school district grades, and that includes each school within the district, obviously, for last school year, 23-24.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1067.602,
+        "end": 1070.964,
+        "text": "As a district, Escambia County received a B for the fifth straight year.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1071.405,
+        "end": 1074.287,
+        "text": "Santa Rosa County had an A for six straight years.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1075.087,
+        "end": 1079.97,
+        "text": " And also Okaloosa County receiving an A for the ninth straight year as well.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1080.77,
+        "end": 1093.737,
+        "text": "Coming up here at 435, we will chat with the Escambia District's Assistant Superintendent, Denny Wilson, for reaction on the district report card.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1093.757,
+        "end": 1098.259,
+        "text": "So that's coming up here in about 13, 14 minutes or so right here.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1098.819,
+        "end": 1099.6,
+        "text": "We'll take a break.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1100.46,
+        "end": 1103.642,
+        "text": "418 back with our state and national news next on Pensacola right now.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1113.185,
+        "end": 1114.265,
+        "text": " Hello again, everybody.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1114.466,
+        "end": 1117.027,
+        "text": "Travis Thompson here with Climatech, a professional air.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1117.127,
+        "end": 1120.209,
+        "text": "Your independently owned American standard heating and air conditioning dealer.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1120.609,
+        "end": 1124.712,
+        "text": "Summer is almost here, and that means a lot of us will experience air conditioning issues.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1125.112,
+        "end": 1131.896,
+        "text": "If you happen to need a new comfort system, we'd like to announce the very best opportunity that we've ever been able to offer to our customers.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1132.296,
+        "end": 1136.259,
+        "text": " For a limited time, every system we sell qualifies for an instant rebate.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1136.56,
+        "end": 1140.943,
+        "text": "Our high-efficiency systems qualify for instant rebates up to $4,000.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1141.584,
+        "end": 1146.447,
+        "text": "And with tax incentives available, your savings could amount to as much as $6,000.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1146.668,
+        "end": 1150.09,
+        "text": "This is without a doubt the best opportunity we've ever been able to offer.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1150.27,
+        "end": 1154.894,
+        "text": "So give me a call to learn more or visit our website at climatechproair.com.",
+        "speaker": "SPEAKER_18"
+    },
+    {
+        "start": 1154.934,
+        "end": 1156.916,
+        "text": "Climate Tech.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1157.496,
+        "end": 1157.977,
+        "text": "Climate Tech.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1158.057,
+        "end": 1160.819,
+        "text": "Heating and cooling is what we need.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 1164.451,
+        "end": 1166.613,
+        "text": " Be the one who changed a kid's life.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1166.793,
+        "end": 1170.496,
+        "text": "Learn about teens, siblings, and special needs children awaiting adoption.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1170.856,
+        "end": 1177.021,
+        "text": "Families First Network is the connection between children who wait in foster care and families who adopt.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1177.421,
+        "end": 1185.047,
+        "text": "As the trusted partner for adoptions in Northwest Florida, Families First Network connects adoptive families with training and support through the entire process.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1185.447,
+        "end": 1192.011,
+        "text": " Begin your journey by signing up for a free Zoom information session at FamiliesFirstNetwork.org.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1192.232,
+        "end": 1194.333,
+        "text": "That's FamiliesFirstNetwork.org.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1194.713,
+        "end": 1199.116,
+        "text": "When America needed a hero, we turned to conservative Aaron Dimmock.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1199.616,
+        "end": 1203.839,
+        "text": "A decorated combat pilot, Dimmock led missions against cartels in the Gulf.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1204.18,
+        "end": 1207.162,
+        "text": "He'll take that fight to Biden's open border chaos.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1207.522,
+        "end": 1210.884,
+        "text": "He's pro-life, pro-gun, and pro-Trump.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1211.144,
+        "end": 1215.287,
+        "text": "Because Aaron Dimmock's a conservative fighter we can be proud of.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1216.167,
+        "end": 1219.949,
+        "text": " Florida Patriots Pack paid for it is responsible for the content of this advertising.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1220.009,
+        "end": 1222.37,
+        "text": "Not authorized by any candidate or candidate's committee.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1222.39,
+        "end": 1223.89,
+        "text": "FloridaPatriotsPack.com.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 1224.971,
+        "end": 1226.832,
+        "text": "Just in time for the summer season.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1227.072,
+        "end": 1232.894,
+        "text": "Pete Moore Imports has new Volkswagens being delivered daily with cool savings on their most popular models.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1233.174,
+        "end": 1238.036,
+        "text": "Drive the family size 2024 Atlas or Atlas Cross Sport with 0.9% APR for 60 months.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1240.137,
+        "end": 1243.16,
+        "text": " or take $3,500 in customer cash.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1243.461,
+        "end": 1247.585,
+        "text": "The midsize Tiguan, available now with 1.9% APR for 60 months, or $2,500 in customer cash.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1247.705,
+        "end": 1251.029,
+        "text": "And the sporty Taos Crossover, with the same 1.9% APR, or $2,000 in customer cash.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1251.249,
+        "end": 1252.951,
+        "text": "Plus the four-door Genesis Dance.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1260.319,
+        "end": 1263.08,
+        "text": " With amazing fuel economy, performance, and style.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1263.42,
+        "end": 1268.662,
+        "text": "Has $2,000 in customer cash or an APR rate of 2.9 for 60 months.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1268.842,
+        "end": 1272.944,
+        "text": "This Volkswagen lineup will take you through summer with cooler savings than before.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1273.164,
+        "end": 1274.324,
+        "text": "At Pete Moore Imports.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1274.484,
+        "end": 1277.505,
+        "text": "They're not in Car City, so you won't pay Car City prices.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1277.826,
+        "end": 1281.047,
+        "text": "Pete Moore Imports, 106 New Warrington Road, Pensacola.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1281.067,
+        "end": 1283.448,
+        "text": "Special APR rate for qualifying credit to PCI.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1283.508,
+        "end": 1284.488,
+        "text": "See dealer for details.",
+        "speaker": "SPEAKER_13"
+    },
+    {
+        "start": 1286.198,
+        "end": 1286.678,
+        "text": " Change.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 1287.658,
+        "end": 1290.739,
+        "text": "Positive change is happening all around us.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 1292.159,
+        "end": 1294.28,
+        "text": "Greater Pensacola is growing.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 1295.1,
+        "end": 1298.861,
+        "text": "And that's why I joined the Greater Pensacola Chamber of Commerce.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 1299.401,
+        "end": 1299.961,
+        "text": "Join us.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 1301.641,
+        "end": 1304.022,
+        "text": "The Greater Pensacola Chamber of Commerce.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 1305.582,
+        "end": 1310.183,
+        "text": "We believe local businesses are the cornerstone of a great community.",
+        "speaker": "SPEAKER_16"
+    },
+    {
+        "start": 1315.973,
+        "end": 1318.875,
+        "text": " Did you know you can get your prescriptions for less at your local pharmacy?",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1319.255,
+        "end": 1320.416,
+        "text": "You can with GoodRx.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1320.757,
+        "end": 1323.118,
+        "text": "It's the free app that can save you money on your medications.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1323.419,
+        "end": 1330.324,
+        "text": "Just search for your prescription, choose the pharmacy and the price that works best for you, and then show your GoodRx coupon to your pharmacist at the drop-off counter.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1330.644,
+        "end": 1335.127,
+        "text": "GoodRx works at over 70,000 pharmacies, including Walmart, Rite Aid and Walgreens.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1335.428,
+        "end": 1337.169,
+        "text": "And it works whether you have insurance or not.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1337.569,
+        "end": 1338.35,
+        "text": "It's easy to save.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1338.69,
+        "end": 1341.232,
+        "text": "Next time you drop off your prescription, check GoodRx.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1341.412,
+        "end": 1343.454,
+        "text": "To start saving today, go to GoodRx.com.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1343.794,
+        "end": 1344.875,
+        "text": "GoodRx is not insurance.",
+        "speaker": "SPEAKER_20"
+    },
+    {
+        "start": 1346.044,
+        "end": 1354.955,
+        "text": " When you listen to News Radio 92.3 on Saturdays, you get the Garden Line Encore at 9, at home with Gary Sullivan at 10, Swan Capital at 1, Let's Go Pensacola at 4.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1377.342,
+        "end": 1378.863,
+        "text": " 4-23 here at News Radio Pensacola.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1378.903,
+        "end": 1380.044,
+        "text": "Happy Wednesday.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1380.884,
+        "end": 1386.948,
+        "text": "Joe Austin and Nadia with you, getting you caught up on everything happening in your world today.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1387.568,
+        "end": 1392.171,
+        "text": "As we switch gears, take a look at what's going on around the state of Florida now.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1392.251,
+        "end": 1399.936,
+        "text": "The State Board of Education approving a bylaw allowing high school athletes to profit off of name, image, and likeness.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1400.376,
+        "end": 1405.938,
+        "text": " There has to be a way for this education that you're talking about to get to the right individuals.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1406.778,
+        "end": 1421.782,
+        "text": "If there is a way that the schools and the FHSIA knows exactly who's participating, then they can also do some outreach to make sure that those parents of those students and the student athlete has the appropriate information.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 1422.302,
+        "end": 1428.607,
+        "text": " The board unanimously approving the NIL rule change that was approved by the FHSAA last month.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1429.147,
+        "end": 1436.092,
+        "text": "Education Commissioner Manny Diaz says the FHSAA will provide schools with specific instructions on the rule changes.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1436.613,
+        "end": 1443.818,
+        "text": "Also adding that they will not tolerate any attempts by companies to circumvent the process and take advantage of students.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1444.338,
+        "end": 1447.26,
+        "text": " And a high-profile murder trial is underway in Manatee County.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1447.661,
+        "end": 1450.422,
+        "text": "Opening statements were made yesterday in the Black Swan murder trial.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1450.743,
+        "end": 1457.047,
+        "text": "Former ballerina Ashley Binfield is accused of killing her 54-year-old estranged husband four years ago in Lakewood Ranch.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1457.407,
+        "end": 1460.77,
+        "text": "The case got national attention when it was featured in an episode of 48 Hours.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1461.07,
+        "end": 1467.795,
+        "text": "The 32-year-old is charged with second-degree murder, and she claims self-defense, but prosecutors say she shot her husband to get custody of their daughter.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1468.871,
+        "end": 1474.092,
+        "text": " With summer in full swing, Attorney General Ashley Moody is warning Floridians about short-term rental scams.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1474.452,
+        "end": 1481.874,
+        "text": "Moody says that swingers can turn full dream vacations into nightmares, which is why she is urging people to use caution when booking places to stay online.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1482.455,
+        "end": 1488.256,
+        "text": "Scammers can post fake listings for properties on websites and social media platforms to try to entice visitors.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1488.736,
+        "end": 1495.058,
+        "text": "Moody says that it is always important to research the property, read the contract, and verify potential bookings that appear too good to be true.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1495.626,
+        "end": 1504.533,
+        "text": " Also, the Florida Department of Law Enforcement is celebrating the anniversary of a critical tool that's helped find hundreds of missing residents.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1504.653,
+        "end": 1513.42,
+        "text": "FDLE says it launched the Florida Purple Alert two years ago as a way to help find missing adults who suffer from mental, cognitive, or developmental disabilities.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1514.08,
+        "end": 1517.322,
+        "text": " So far, the system has helped locate nearly 440 people.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1517.722,
+        "end": 1522.945,
+        "text": "Those interested can sign up for Purple Alerts by going to missingchildrenalert.com.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1523.145,
+        "end": 1524.446,
+        "text": "Austin, what's going on on the roads?",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1524.786,
+        "end": 1529.629,
+        "text": "Well, we've still got some backups developing if you're traveling northbound on Pine Forest towards Nine Mile Road.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1530.329,
+        "end": 1535.11,
+        "text": " Also have maybe some backups, not many though, at Brent Lane if you're traveling westbound towards Palafox Street.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1535.531,
+        "end": 1539.652,
+        "text": "And Gulf Beach Highway if you are going to be traveling eastbound towards Navy Boulevard.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1539.992,
+        "end": 1542.853,
+        "text": "Outside of that is Gulf Breeze Parkway traveling eastbound towards Tiger Point.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1543.093,
+        "end": 1545.513,
+        "text": "Navarre Parkway traveling westbound through Windhaven Beach.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1545.653,
+        "end": 1548.074,
+        "text": "And Caroline Street traveling westbound coming over Blackwater River.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1548.948,
+        "end": 1555.65,
+        "text": " We continue to be in a weather pattern where a shower or a thunderstorm could pop up at about any time, day or night.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1556.05,
+        "end": 1559.311,
+        "text": "So look for rain to be scattered across the area at times.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1559.731,
+        "end": 1564.373,
+        "text": "Of course, it will be warm and humid with highs running in the upper 80s to low 90s.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1564.793,
+        "end": 1568.834,
+        "text": "Overnight lows will generally be down between about 75 and 80 degrees.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1569.274,
+        "end": 1573.576,
+        "text": "Jumping ahead to the weekend, we've got a 50% chance for rain both on Saturday and Sunday.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1574.076,
+        "end": 1577.977,
+        "text": "I'm meteorologist Alan Strom with your first warning WEAR News weather forecast.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 1578.357,
+        "end": 1578.697,
+        "text": " All right.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1578.737,
+        "end": 1579.498,
+        "text": "Thank you, Alan.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1579.538,
+        "end": 1590.424,
+        "text": "Looking at our national headlines today, FBI Director Christopher Wray providing new details about the assassination attempt on former President Trump two Saturdays ago.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1590.924,
+        "end": 1603.151,
+        "text": "We are investigating the shooter both to determine his motive and his preparations and activities before the shooting, but also to make sure whether or not there are any co-conspirators, accomplices.",
+        "speaker": "SPEAKER_22"
+    },
+    {
+        "start": 1604.151,
+        "end": 1615.916,
+        "text": " Ray was at the House Judiciary Committee, says that a week before the rally, the shooter searched for how far away Lee Harvey Oswald was when he shot President Kennedy in 1963.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1616.796,
+        "end": 1626.1,
+        "text": "He also detailed how the shooter flew a drone about 200 yards from the rally stage for around 11 minutes, just two hours before Trump walked on stage.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1626.68,
+        "end": 1631.782,
+        "text": "Investigators also determining the shooter used an AR-style rifle bought from his father.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1632.262,
+        "end": 1639.307,
+        "text": " And according to Vote.org, it says there's been a dramatic jump in voter registration since President Biden announced that he will no longer seek reelection.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1639.647,
+        "end": 1645.571,
+        "text": "The organization said it helped register more than 38,500 voters in just two days after Biden's announcement.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1645.951,
+        "end": 1649.834,
+        "text": "That's the largest number of new voters it has registered in a two-day period this election cycle.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1650.174,
+        "end": 1655.437,
+        "text": "Vote.org also noted that 83% of the newly registered voters are young people between the ages of 18 and 34.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1657.759,
+        "end": 1661.782,
+        "text": " Iowa's law that bans abortions around six weeks is set to take effect on Monday.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1661.802,
+        "end": 1672.55,
+        "text": "A judge gave the order on Tuesday to dissolve the temporary injection after the state Supreme Court denied a rehearing request by Planned Parenthood and the ALCU of Iowa.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1673.211,
+        "end": 1679.075,
+        "text": "The law signed by Governor Kim Reynolds last year will ban abortions after embryonic cardiac activity is detected.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1679.576,
+        "end": 1684.8,
+        "text": "Planned Parenthood estimates that up to 98% of abortions currently performed in Iowa will be banned under the law.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1685.16,
+        "end": 1686.761,
+        "text": " That's my bad on that one.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1686.801,
+        "end": 1687.922,
+        "text": "I was about to ask, yeah.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1687.982,
+        "end": 1690.283,
+        "text": "ACLU, but that was my fault.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1690.383,
+        "end": 1691.263,
+        "text": "That's my fault.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1691.463,
+        "end": 1692.204,
+        "text": "There we go.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1692.244,
+        "end": 1693.164,
+        "text": "Joe makes his mistakes often.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1693.184,
+        "end": 1693.645,
+        "text": "That's right.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1694.185,
+        "end": 1702.95,
+        "text": "The Department of Justice opening an investigation into the deadly deputy-involved shooting of Sonia Massey earlier this month in Springfield, Illinois.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1703.01,
+        "end": 1709.473,
+        "text": "Civil rights attorney Ben Crump announcing the probe, also revealing that Massey's family has met with Governor J.B.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1709.553,
+        "end": 1712.575,
+        "text": "Pritzker and Lieutenant Governor Juliana Stratton.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1713.275,
+        "end": 1721.443,
+        "text": " Massey was shot and killed by now former Deputy Sean Grayson inside her home after calling 911 to report a possible intruder.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1721.923,
+        "end": 1725.907,
+        "text": "And Fox News proposing a debate between Vice President Harris and former President Trump.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1726.227,
+        "end": 1730.251,
+        "text": "The network has suggested the debate will be held September 17th in Pennsylvania.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1730.912,
+        "end": 1737.618,
+        "text": "Trump had been scheduled to face President Biden in a second debate on September 10th hosted by ABC News before Biden decided to drop out of the race.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1739.082,
+        "end": 1741.563,
+        "text": " Wall Street is closing with stocks sharply lower.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1741.943,
+        "end": 1745.323,
+        "text": "This comes after disappointing reports from two huge tech companies.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1745.743,
+        "end": 1755.025,
+        "text": "Google's parent company, Alphabet, saw YouTube advertising fall below expectations, while Tesla saw shares tank after weaker-than-expected earnings results.",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1755.665,
+        "end": 1759.406,
+        "text": "At the closing bell, the Dow Jones Industrial Average fell by 504 points, down to 93,853, and the S&P fell by...",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1764.207,
+        "end": 1788.864,
+        "text": " fell by 128 points to 54.27 the nasdaq dropped by 654 points to 17 30 342 that's gonna that's gonna happen that's gonna happen you're uh you're doing a thousand times better than the first time austin was that is not true it's just a lot of numbers yeah i think i came out swinging early and then i started playing down to my competition is what i think happened but i don't know",
+        "speaker": "SPEAKER_17"
+    },
+    {
+        "start": 1789.364,
+        "end": 1791.366,
+        "text": " I think it's learning.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1791.446,
+        "end": 1795.31,
+        "text": "Are you referring to me as your competition that you were playing down to?",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1795.43,
+        "end": 1797.051,
+        "text": "Well, I mean, yeah, I had to.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1798.052,
+        "end": 1799.093,
+        "text": "You took a shot at me.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1799.113,
+        "end": 1800.374,
+        "text": "I had to take one back.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1800.915,
+        "end": 1801.255,
+        "text": "Come on.",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1801.455,
+        "end": 1801.996,
+        "text": "What are we doing here?",
+        "speaker": "SPEAKER_15"
+    },
+    {
+        "start": 1803.097,
+        "end": 1804.698,
+        "text": "Recapping our top three stories.",
+        "speaker": "SPEAKER_14"
+    },
+    {
+        "start": 1804.738,
+        "end": 1807.961,
+        "text": "President Biden addressing the nation tonight, 7 o'clock Central.",
+        "speaker": "SPEAKER_14"
+    }
+]
