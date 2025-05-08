@@ -1,0 +1,812 @@
+[
+    {
+        "start": 0.329,
+        "end": 3.871,
+        "text": " Here's your news update from KFIR's 720 AM, The Waste of the Valley.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 4.271,
+        "end": 20.041,
+        "text": "The ACLU of Oregon filed suit Tuesday against the Medford Police Department, claiming it has illegally been compiling secret files on individuals and groups who protested against the Minneapolis police murder of George Floyd, who pushed for LGBTQ rights, who criticized the U.S.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 20.061,
+        "end": 25.584,
+        "text": "Supreme Court's overturning of Roe v. Wade, and who advocated for homeless people and drug users.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 26.084,
+        "end": 37.71,
+        "text": " Although the ACLU seemed to take a backseat as citizens discovered Oregon's government officials in the Secretary of State's and Governor's office were secretly collecting and helping to punish certain people on social media.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 38.271,
+        "end": 41.793,
+        "text": "People who were primarily conservative that were just speaking their mind.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 42.233,
+        "end": 49.837,
+        "text": "Called Miss Dis and Mal Information, or MDM, they contracted with a British company to monitor law-abiding Oregonians.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 50.277,
+        "end": 62.26,
+        "text": " But according to Oregon Live, this suit alleges that the Southern Oregon Police Department monitored social media accounts and combed news stories to build files against individuals and groups when they weren't suspected of any criminal activity.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 62.761,
+        "end": 70.703,
+        "text": "Filed in Jackson County, the lawsuit states that, simply put, MPD is abusing its power to spy on activists whose views it dislikes.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 71.143,
+        "end": 78.785,
+        "text": "And, not only that, building and maintaining files about such people and organizations without any justifiable law enforcement purpose.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 79.225,
+        "end": 81.066,
+        "text": " a blatant violation of Oregon law.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 81.647,
+        "end": 93.314,
+        "text": "But city attorney Eric Mitten refuted the lawsuit's claim, saying in a written statement Tuesday that the police aren't judging individuals' political, religious, or social views as the department keeps tabs on various groups.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 93.815,
+        "end": 99.839,
+        "text": "He said they review publicly available social media over safety concerns related to public rallies and protests.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 100.359,
+        "end": 110.653,
+        "text": " Police Chief Justin Ivins added, This ensures our ability to address potential safety concerns while safeguarding those exercising their constitutional right to free speech.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 111.214,
+        "end": 115.099,
+        "text": "This is Carla Davenport for KFI News, 720 AM, The Voice of the Valley.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 115.759,
+        "end": 118.041,
+        "text": " 70% of Oregon's wildfires are started by people.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 118.261,
+        "end": 120.323,
+        "text": "One careless spark can destroy all that we love.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 120.523,
+        "end": 124.946,
+        "text": "It doesn't take much for a wildfire to ignite and spread quickly across our state's beautiful landscape.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 125.107,
+        "end": 128.729,
+        "text": "Everyday activities like mowing your grass or driving your car can spark a wildfire.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 128.889,
+        "end": 130.19,
+        "text": "Be extra careful this summer.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 130.431,
+        "end": 136.715,
+        "text": "Check weather conditions, follow posted fire restrictions, and keep fire tools on hand to be able to extinguish sparks or fires quickly.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 136.836,
+        "end": 140.358,
+        "text": "Go to KeepOregonGreen.org to learn how you can prevent wildfires.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 140.618,
+        "end": 145.102,
+        "text": "Sponsored by the Keep Oregon Green Association, the Oregon Association of Broadcasters, and this station.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 150.225,
+        "end": 153.748,
+        "text": " Here's a news update from KFIR's 720 AM, The Voice of the Valley.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 154.168,
+        "end": 161.693,
+        "text": "As EV maker Elon Musk eyes a potential spot on Trump's White House, Trump announces that he'll rescind taxpayer-funded EV subsidies.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 162.294,
+        "end": 167.998,
+        "text": "As EV sales remain soft and not so appealing to consumers, especially with recent performance issues.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 168.498,
+        "end": 169.479,
+        "text": "In fact, this week...",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 169.679,
+        "end": 183.654,
+        "text": " Ford Motor is canceling plans for a large electric sport utility vehicle and expects to take $2 billion in related special charges and write-downs as automakers continue adjusting their EV plans because of softer-than-expected demand.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 184.094,
+        "end": 190.881,
+        "text": "The Dearborn, Michigan automaker this spring said it would delay plans for an electric three-row SUV by two years to a 2027 release date.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 192.723,
+        "end": 194.584,
+        "text": " But that proposed delay didn't last.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 194.925,
+        "end": 200.628,
+        "text": "On Wednesday this week, the company said it is scrapping the model altogether, citing tough pricing pressures.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 201.229,
+        "end": 205.191,
+        "text": "This is Carla Davenport for KFI News, 720 AM, the Roots of the Valley.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 205.211,
+        "end": 208.893,
+        "text": "Hope you enjoyed your meal.",
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 209.674,
+        "end": 212.796,
+        "text": "And I just want to say, he's lucky to have a brother like you.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 213.917,
+        "end": 214.297,
+        "text": "Lucky?",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 214.917,
+        "end": 217.059,
+        "text": "Caring for my brother is far from easy.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 217.912,
+        "end": 220.914,
+        "text": " But he's a part of me, like my arms and legs, so I'll be his.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 221.615,
+        "end": 222.476,
+        "text": "No time for tired.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 222.956,
+        "end": 224.517,
+        "text": "Nothing can disable this love.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 224.778,
+        "end": 228.261,
+        "text": "He needs me, but I'm the lucky one, even though I need help now and then.",
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 228.641,
+        "end": 233.385,
+        "text": "If you're caring for a loved one, visit aarp.org slash caregiving for care guides and community.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 233.725,
+        "end": 234.866,
+        "text": "Support for your strength.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 835.956,
+        "end": 840.78,
+        "text": " At Hot Shot Secret, we share the science behind common diesel problems and their solutions.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 841.02,
+        "end": 843.302,
+        "text": "For example, diesel fuel C-Tain levels.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 843.542,
+        "end": 846.684,
+        "text": "In many states, the C-Tain rating in diesel fuel is 42 to 45.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 846.724,
+        "end": 851.548,
+        "text": "Most diesel engines operate more efficiently with a C-Tain rating of 48 to 50.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 852.249,
+        "end": 859.094,
+        "text": "One treatment of Hot Shot Secret Diesel Extreme will raise your C-Tain seven points, increase fuel economy, and improve cold starts.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 859.374,
+        "end": 860.455,
+        "text": "Due to a cleaner burn,",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 860.575,
+        "end": 863.697,
+        "text": " There are less hydrocarbons and particulate matter in your exhaust.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 863.857,
+        "end": 866.82,
+        "text": "This reduces the blockage of your diesel particulate filter.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 867.1,
+        "end": 871.783,
+        "text": "Using Diesel Extreme generates 83% less DPF regenerations.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 872.023,
+        "end": 883.572,
+        "text": "The 6-in-1 Diesel Extreme formula also includes the most concentrated detergent on the market, lubricity enhancer, water demulsifier, rust and corrosion inhibitors, and a fuel stabilizer.",
+        "speaker": "SPEAKER_10"
+    },
+    {
+        "start": 883.812,
+        "end": 891.44,
+        "text": " Hot Shot Secret Diesel Extreme is available nationwide at truck stops, fine farm and auto stores, and online at hotshotsecret.com.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 892.001,
+        "end": 893.102,
+        "text": "Hot Shot Secret.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 893.682,
+        "end": 895.004,
+        "text": "Powered by science.",
+        "speaker": "SPEAKER_07"
+    },
+    {
+        "start": 896.687,
+        "end": 898.888,
+        "text": " Have you seen how expensive new mattresses are?",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 899.528,
+        "end": 907.272,
+        "text": "Well, five years ago, my wife, Carla Davenport, and I had just moved into a new place and the mattress that we had was, well, getting on in years.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 907.773,
+        "end": 912.075,
+        "text": "But we really did not want to invest in a whole new mattress as expensive as they were then.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 912.575,
+        "end": 913.876,
+        "text": "And that was before Joe Biden.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 914.496,
+        "end": 917.158,
+        "text": "We kept seeing the MyPillow ads about his mattress topper.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 917.178,
+        "end": 920.679,
+        "text": "And we thought, well, why not give that a try?",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 921.02,
+        "end": 925.262,
+        "text": "$250 was a lot cheaper than the $1,500 or more we were seeing for some mattresses.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 926.002,
+        "end": 933.186,
+        "text": " I have to say, after putting that mattress topper on, not only did it save us all that money, but it was the most comfortable mattress we'd ever slept on.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 933.706,
+        "end": 935.487,
+        "text": "And we still have not replaced the mattress.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 936.187,
+        "end": 941.57,
+        "text": "Right now, if you go to MyPillow.com forward slash KFIR, those mattress toppers are as low as $99.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 941.93,
+        "end": 947.593,
+        "text": "The 2.0 version, with its nano coils for even cooler sleep, is $229.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 948.634,
+        "end": 948.854,
+        "text": "Save $160.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 949.114,
+        "end": 954.877,
+        "text": "Head to MyPillow.com and use the promo code KFIR at checkout.",
+        "speaker": "SPEAKER_06"
+    },
+    {
+        "start": 956.215,
+        "end": 959.817,
+        "text": " Need a plumber that's honest, fair, polite, and clean?",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 960.177,
+        "end": 964.159,
+        "text": "A plumber with a name you know because he has a lifelong history in the community.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 964.499,
+        "end": 968.101,
+        "text": "That's Mitch at New Flow Plumbing Inc.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 968.121,
+        "end": 979.426,
+        "text": "541-367-5655 for plumbing services, repairs, sewer and drain cleaning, water heater repair and replacement, plumbing for a new or remodeled construction.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 979.607,
+        "end": 982.068,
+        "text": "Call Mitch today at New Flow Plumbing Inc.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 982.568,
+        "end": 982.608,
+        "text": " 541-367-5655.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 987.042,
+        "end": 989.924,
+        "text": " KFIR salutes your neighbors, making a difference.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 990.304,
+        "end": 1002.472,
+        "text": "If you're over 55 years old, consider volunteering your time in your area of expertise with the Retired Senior Volunteer Program, RSVP, America's largest senior volunteer network.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1002.732,
+        "end": 1011.258,
+        "text": "This great volunteer opportunity for seniors is part of AmeriCorps Seniors, run locally by the Oregon Cascades West Council of Governments.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1011.678,
+        "end": 1013.48,
+        "text": "In Lynn and Benton County, call 541-812-0849.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1017.522,
+        "end": 1023.224,
+        "text": " School sports are played by humans, coached by humans, and officiated by humans.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1023.704,
+        "end": 1034.428,
+        "text": "So the next time you're sitting in the stands at a school athletic event, please remember this and maintain your humanity, especially when it comes to judging and critiquing athletes, coaches, and officials.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1034.949,
+        "end": 1036.789,
+        "text": "Please show your fellow humans some respect.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1037.229,
+        "end": 1038.65,
+        "text": "They'll appreciate your empathy.",
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 1039.63,
+        "end": 1043.812,
+        "text": "This message presented by the OSAA and the Oregon Athletic Directors Association.",
+        "speaker": "SPEAKER_08"
+    },
+    {
+        "start": 1047.352,
+        "end": 1056.237,
+        "text": " KFIR is seeking great media sales professionals to help us sell News Talk 720's 10,000-watt KFIR Voice of the Valley.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1056.817,
+        "end": 1061.68,
+        "text": "Take on the challenge of being very good at either outside sales or telephone sales or both.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1062.2,
+        "end": 1066.042,
+        "text": "Radio or television sales success that you can document is a plus.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1066.542,
+        "end": 1073.766,
+        "text": "Send your resume to management at kfir720am.com, management at kfir720am.com.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1074.307,
+        "end": 1076.528,
+        "text": "KFIR is an equal opportunity employer.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1077.364,
+        "end": 1082.468,
+        "text": " The mainstream media, ah, the mainstream media, they want you to believe everything they say.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1082.548,
+        "end": 1088.612,
+        "text": "Well, sometimes even they know they make outrageous claims, and so they call in a fact-checker.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1088.912,
+        "end": 1096.978,
+        "text": "But all of the national fact-check organizations, AP, CNN, New York Times, NPR, PolitiFact, Snopes, lean left.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1097.158,
+        "end": 1097.899,
+        "text": "They're biased.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1098.159,
+        "end": 1101.782,
+        "text": "So that brings up the question, who fact-checks the fact-checkers?",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1102.222,
+        "end": 1102.522,
+        "text": " Right.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1102.863,
+        "end": 1103.323,
+        "text": "We do.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1103.463,
+        "end": 1107.126,
+        "text": "KFIR 720 AM, your all-day fact checker.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1107.567,
+        "end": 1109.508,
+        "text": "KFIR 720 AM.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1109.668,
+        "end": 1110.849,
+        "text": "Salute your neighbors.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1111.009,
+        "end": 1111.81,
+        "text": "Making a difference.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1112.09,
+        "end": 1114.552,
+        "text": "The Albany Public Schools Foundation.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1114.933,
+        "end": 1119.977,
+        "text": "35 years of support for kids in every Albany school, including classroom grants.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1120.217,
+        "end": 1126.726,
+        "text": " elementary enrichment grants, scholarships for Albany seniors amounting to tens of thousands of dollars each year.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1126.886,
+        "end": 1134.357,
+        "text": "To find out more information or find out how you can volunteer or donate, go to albanypublicschoolsfoundation.org or call 541-979-2773.",
+        "speaker": "SPEAKER_09"
+    },
+    {
+        "start": 1140.74,
+        "end": 1144.243,
+        "text": " Here's your news update from KFIR's 720 AM, The Voice of the Valley.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1144.643,
+        "end": 1145.364,
+        "text": "See analysis.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1145.524,
+        "end": 1156.554,
+        "text": "The country's only elections group that forecasts legislative elections is predicting a 39 to 21 Democrat majority in Oregon's House and an 18 to 11 split in the state Senate.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1157.074,
+        "end": 1171.989,
+        "text": " Those margins would give Democrat leaders a supermajority to try to negotiate a new transportation funding package during the 2025 session, as any attempts to create new taxes or raise existing ones and without voter approval requires the supermajority.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1172.47,
+        "end": 1175.392,
+        "text": "And that would likely bring about tolling and carbon taxing.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1175.993,
+        "end": 1186.121,
+        "text": " The forecasting group only considers two of the state Senate races to be competitive, the 5th District along the Central Coast and the 25th District in East Multnomah County.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1186.621,
+        "end": 1192.465,
+        "text": "There are no toss-ups in the House model, with the four closest predicted races tilting toward Democrats.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1193.006,
+        "end": 1197.049,
+        "text": "This is Carla Davenport for KFI News, 720 AM, The Voice of the Valley.",
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1726.178,
+        "end": 1728.48,
+        "text": " Crime across the country is at an all-time high.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1729.02,
+        "end": 1731.843,
+        "text": "It feels like even a family road trip is taking a risk.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1732.243,
+        "end": 1735.226,
+        "text": "We don't want the feeling of being unprotected and vulnerable.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1735.626,
+        "end": 1737.488,
+        "text": "We found GetCCL.com.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1737.988,
+        "end": 1745.495,
+        "text": "GetCCL.com gave us the help we needed to apply for a legal concealed carry permit that's recognized in over half of the country.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1745.755,
+        "end": 1750.439,
+        "text": "GetCCL.com simplifies the process to apply, and it's all online.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1750.679,
+        "end": 1752.761,
+        "text": "We used their free qualification process",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1752.961,
+        "end": 1756.004,
+        "text": " to answer a few questions and applied for our permit right from home.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1756.365,
+        "end": 1765.475,
+        "text": "Thanks to reciprocity laws between states, when you're issued a New Hampshire concealed carry permit, you can legally carry in any state that recognizes your New Hampshire permit.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1765.715,
+        "end": 1768.038,
+        "text": "It only takes minutes to apply, so don't wait.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1768.418,
+        "end": 1769.68,
+        "text": "Exercise your rights today.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1770.08,
+        "end": 1773.101,
+        "text": " Ensure you're protecting your family at home and in other states.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1773.421,
+        "end": 1774.401,
+        "text": "Have peace of mind.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1774.621,
+        "end": 1775.461,
+        "text": "Apply today.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1775.781,
+        "end": 1777.462,
+        "text": "Go to GetCCL.com.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1777.802,
+        "end": 1779.342,
+        "text": "That's GetCCL.com.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1779.702,
+        "end": 1781.462,
+        "text": "Go to GetCCL.com.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1781.942,
+        "end": 1783.243,
+        "text": "Exercise your rights today.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1783.503,
+        "end": 1785.103,
+        "text": "Go to GetCCL.com.",
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1787.163,
+        "end": 1794.325,
+        "text": "You're listening to The Voice of the Valley, KFIR, 720 AM, Sweet Home, Corvallis, Albany.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 1798.26,
+        "end": 1800.842,
+        "text": " News this hour from townhall.com.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 1801.182,
+        "end": 1802.023,
+        "text": "I'm Rich Thomason.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 1802.743,
+        "end": 1806.766,
+        "text": "Tonight will be Kamala Harris' night at the Democratic National Convention.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 1806.806,
+        "end": 1809.908,
+        "text": "She will formally accept the party's presidential nomination.",
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 1810.268,
+        "end": 1816.032,
+        "text": "Last night, Tim Walz officially became the Democrats' vice presidential nominee, capturing a ringing endorsement.",
+        "speaker": "SPEAKER_02"
+    }
+]
